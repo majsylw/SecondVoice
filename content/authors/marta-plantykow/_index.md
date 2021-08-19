@@ -54,7 +54,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
  - Organizers
- - Team
 
 ---
 Master in computer science from Gdansk University of Technology with 5 years’ experience in Network Software development. Currently working on Linux Base Driver for Intel® Ethernet Connection solutions, focusing on eXpress Data Path. Artificial Intelligence enthusiast. 

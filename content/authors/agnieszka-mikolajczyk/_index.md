@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Agnieszka Mikołajczyk
+title: Agnieszka Mikołajczyk
 
 # Username (this should match the folder name)
 authors:
@@ -70,7 +70,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
  - Organizers
- - Team
 ---
 
 Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 

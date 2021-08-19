@@ -42,7 +42,6 @@ email: "poland@womeninai.co"
 # Organizational groups that you belong to (for People widget)
 user_groups:
  - Organizers
- - Team
 
 ---
 
