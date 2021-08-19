@@ -1,12 +1,12 @@
 ---
 # Display name
-title: SecondVoice.ai
+title: Milena Olech
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Women in AI Poland - AI4Good
+role: ML Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -41,13 +41,9 @@ email: "poland@womeninai.co"
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
- - Project
+ - Organizers
+ - Team
 
 ---
-Our motivation
 
-* Deaf belong to the most excluded social groups.
-* Deaf cannot benefit from the services of an interpreter when contacting with doctor (also in the hospital), social worker, teacher, policeman, psychologist.
-* Sign language is different comparing to Polish; Deaf learns it as a foreign language.
-* Due to that Deaf have limited access to information, communicators and entertainment in their native language.
-
+...
