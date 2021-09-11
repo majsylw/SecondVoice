@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: SilentVoice.ai # Website name
-baseurl: '' # Website URL
+title: HearAI # Website name
+baseurl: 'hearai.pl' # Website URL
 copyright: '© {year} WAI' # Footer text, e.g. '© {year} Me'
 
 ############################
