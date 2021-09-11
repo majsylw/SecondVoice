@@ -58,10 +58,10 @@ Sign language is different comparing to Polish. Deaf people learn it as a foreig
 
 # Our goals
 
-* Working on segmentation and detection of signs,
-* Increasing existing knowledge base,
-* Increasing public awareness,
-* Gaining experience,
-* Networking,
-* Experimenting with technologies,
-* Sharing knowledge,
+* Working on segmentation and detection of signs.
+* Increasing existing knowledge base.
+* Increasing public awareness.
+* Gaining experience.
+* Networking.
+* Experimenting with technologies.
+* Sharing knowledge.
