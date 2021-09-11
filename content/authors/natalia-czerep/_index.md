@@ -50,7 +50,7 @@ user_groups:
  - Organizers
 
 ---
-Third year Computer Science student at University of Wrocław. Currently Analys Intern at UBS working in a field of Cybersecurity. Former R&D intern in Computer Vision team @ Neurosys.
+Third year Computer Science student at University of Wrocław. Currently Analyst Intern at UBS working in a field of Cybersecurity. Former R&D intern in Computer Vision team @ Neurosys.
 
 Skills: Python, Deep Learning, Neural Networks, PyTorch, PostreSQL
 
