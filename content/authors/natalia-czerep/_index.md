@@ -14,7 +14,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: Currently Analys Intern at UBS working in a field of Cybersecurity, third year CS student at UWr. Former R&D intern in Computer Vision team @ Neurosys. Passionate about data analysis and ML.
+
+interests:
+- graph theory,
+- painting by numbers,
+- cycling,
+- food traveling
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,13 +29,13 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/women_in_ai
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: ""
+  link: https://github.com/natcz
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/natalia-czerep
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -44,5 +50,10 @@ user_groups:
  - Organizers
 
 ---
+Third year Computer Science student at University of Wrocław. Currently Analys Intern at UBS working in a field of Cybersecurity. Former R&D intern in Computer Vision team @ Neurosys.
+
+Skills: Python, Deep Learning, Neural Networks, PyTorch, PostreSQL
+
+Soft skills: Teamwork, Responsibility, Open mind, Creativity, Flexibility
 
 ...
