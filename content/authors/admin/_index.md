@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SecondVoice.ai
+title: hear.ai
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Second Voice
+bio: hear.ai
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,17 +37,16 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "poland@womeninai.co"
+email: "hearai@womeninai.co"
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
  - Project
 
 ---
-Our motivation
+# Our motivation
 
 * Deaf belong to the most excluded social groups.
 * Deaf cannot benefit from the services of an interpreter when contacting with doctor (also in the hospital), social worker, teacher, policeman, psychologist.
 * Sign language is different comparing to Polish; Deaf learns it as a foreign language.
 * Due to that Deaf have limited access to information, communicators and entertainment in their native language.
-
