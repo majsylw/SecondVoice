@@ -29,7 +29,7 @@ social:
   link: https://twitter.com/women_in_ai
 - icon: github
   icon_pack: fab
-  link: ""
+  link: "https://github.com/hearai"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
