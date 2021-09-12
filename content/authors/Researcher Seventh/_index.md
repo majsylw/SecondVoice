@@ -1,26 +1,20 @@
 ---
 # Display name
-title: Natalia Czerep
+title: Researcher Seventh
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Junior ML Engineer
+role: ML Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Wrocław
+- name: WAI Poland
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently Analys Intern at UBS working in a field of Cybersecurity, third year CS student at UWr. Former R&D intern in Computer Vision team @ Neurosys. Passionate about data analysis and ML.
-
-interests:
-- graph theory,
-- painting by numbers,
-- cycling,
-- food traveling
+bio: ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -30,12 +24,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/women_in_ai
 - icon: github
   icon_pack: fab
-  link: https://github.com/natcz
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/natalia-czerep
+  link: ""
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -47,11 +41,8 @@ email: "poland@womeninai.co"
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
- - Organizers
+ - "Recruited members"
 
 ---
-Third year Computer Science student at University of Wrocław. Currently Analyst Intern at UBS working in a field of Cybersecurity. Former R&D intern in Computer Vision team @ Neurosys.
 
-Skills: Python, Deep Learning, Neural Networks, PyTorch, PostreSQL
-
-Soft skills: Teamwork, Responsibility, Open mind, Creativity, Flexibility
+...
