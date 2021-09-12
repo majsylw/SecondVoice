@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate & Machine Learning Enthusiast
+role: Passionate PhD Candidate, ML researcher at Voicelab.ai, PI in pre-doctoral research grant
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://pg.edu.pl/welcome?p_l_id=52858455&p_v_l_s_g_id=0&"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
+bio: Author of scientific papers and publications, holding numerous scholarships and awards. Former organizer and a team leader at the open-source project detectwaste.ml. Daily, she conducts her research on her grant “Detecting and overcoming bias in data with explainable artificial intelligence” Preludium, awarded by Polish National Centre. She does her R&D work in the NLP team at Voicelab.ai . In her free time, she organizes and actively contributes to the scientific community.
 
 interests:
 - Explainable Artificial Intelligence
@@ -72,4 +72,4 @@ user_groups:
  - Organizers
 ---
 
-Author of scientific papers and publications interested in the issue of machine learning, explainable AI, image analysis as the way of improving people’s everyday life. A PhD student who cares about the further development and training opportunities within interests. 
+Author of scientific papers and publications, holding numerous scholarships and awards. Former organizer and a team leader at the open-source project detectwaste.ml. Daily, she conducts her research on her grant “Detecting and overcoming bias in data with explainable artificial intelligence” Preludium, awarded by Polish National Centre. She does her R&D work in the NLP team at Voicelab.ai . In her free time, she organizes and actively contributes to the scientific community.
