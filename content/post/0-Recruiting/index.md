@@ -1,7 +1,7 @@
 ---
 title: Project launch
 subtitle: How a hear.ai story begins
-summary: Read about our motivation, plan and recrutation process.
+summary: Read about our motivation, plan and recruitment process.
 
 date: "2021-09-12T00:00:00Z"
 lastmod: "2021-09-12T00:00:00Z"
