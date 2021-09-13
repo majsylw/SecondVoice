@@ -60,6 +60,9 @@ user_groups:
  - Mentors
  
 ---
+Daniel Korzekwa has two decades of professional experience in machine learning science and engineering, full of passion and joy. He started in engineering, building large-scale distributed Java/Oracle-based systems for data collection and monitoring of heterogeneous networks in Telco, Gas and Health industries. Gradually, he moved to machine learning science, solving problems in the betting industry. For last couple of years, he has been working as Applied Science Manager at Amazon TTS-Research, solving problems related to speech synthesis and AI-driven speech therapy. To make our lives better. He has a lovely wife, three sons, a dog, a guinea pig, and a rabbit. Currently, living in Gdansk, but previously lived for years in both Poznan and Gliwice.
+
+Main topics of expertise:
 - Deep Learning models for expressive Text-To-Speech.
 - Automated assessment of human and synthetic speech.
 - Neural Networks, Probabilistic ML, MxNet, Python.
