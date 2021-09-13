@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently Analys Intern at UBS working in a field of Cybersecurity, third year CS student at UWr. Former R&D intern in Computer Vision team @ Neurosys. Passionate about data analysis and ML.
+bio: Currently IT Analyst Intern at UBS working in a field of Cybersecurity, third year CS student at UWr. Former R&D intern in Computer Vision team @ Neurosys. Passionate about data analysis and ML.
 
 interests:
 - graph theory,
@@ -50,7 +50,7 @@ user_groups:
  - Organizers
 
 ---
-Third year Computer Science student at University of Wrocław. Currently Analyst Intern at UBS working in a field of Cybersecurity. Former R&D intern in Computer Vision team @ Neurosys.
+Third year Computer Science student at University of Wrocław. Currently IT Analyst Intern at UBS working in a field of Cybersecurity. Former R&D intern in Computer Vision team @ Neurosys.
 
 Skills: Python, Deep Learning, Neural Networks, PyTorch, PostreSQL
 
