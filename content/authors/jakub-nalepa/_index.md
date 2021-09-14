@@ -17,7 +17,11 @@ role: Assistant Professor, Senior Research Scientist
 organizations:
 - name: Silesian University of Technology
   url: "https://www.polsl.pl/"
-
+- name: Future Processing Healthcare
+  url: "https://futurehealthcare.software/"
+- name: KP Labs
+  url: "https://space.biz.pl/czlonkowie/kp-labs/"
+  
 # Short bio (displayed in user profile at end of posts)
 bio: Bringing research into industry, and doing O(n) and O(nlogn) wherever possible.
 
@@ -55,8 +59,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
  - Mentors
- 
+
 ---
-Jakub Nalepa received a M.Sc. degree (2011) and a Ph.D. degree (2016), both with distinction in computer science from the Silesian University of Technology, Gliwice, Poland. Dr. Nalepa is currently an Assistant Professor at the Department of Automatic Control, Electronics and Computer Science, Silesian University of Technology. Since 2010, he has been a research scientist at Future Processing, Gliwice, Poland, where he is currently the lead research scientist in machine learning and medical imaging projects. Dr. Nalepa's research interests encompass machine learning, deep learning, evolutionary algorithms, especially (adaptive and self-adaptive) genetic and memetic algorithms, pattern recognition, optimization, medical imaging, and interdisciplinary applications of these methods. He has been involved in several projects related to the above-mentioned domains – in both academia and industry. So far, Dr. Nalepa published more than 70 papers in these fields. He is a reviewer for several international journals and conferences. Dr. Nalepa has been awarded a prestigious Witold Lipski’s Award for outstanding young scientists in Computer Science (2017). Dr. Nalepa is an IEEE and ACM member.
+Jakub Nalepa received his MSc (2011), PhD (2016), and DSc (2021) in Computer Science from Silesian University of Technology (SUT), Gliwice, Poland. Jakub is currently an Assistant Professor at SUT, Head of AI at KP Labs, Gliwice, Poland, and Machine Learning Architect at Future Processing Healthcare, Gliwice, Poland. His research interests focus on machine (deep) learning, signal processing, remote sensing, and medical image analysis. So far, he has published more than 100 peer-reviewed papers in journals and conferences and is an active reviewer in 90+ journals. Jakub has been awarded the Witold Lipski Prize (2017), the POLITYKA Science Award (2020), and has been shortlisted at the AI Innovation of the Year (Solutions Provider) list, The AIconics Awards (2021).
 
 [**Click here to visit his website**](http://sun.aei.polsl.pl/~jnalepa/)
