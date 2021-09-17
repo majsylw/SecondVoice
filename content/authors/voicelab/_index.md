@@ -41,7 +41,7 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
- - Partners
+ - Sponsors
 
 ---
 VoiceLab is a technology firm from Gdańsk, working on *automatic speech recognition (ASR)* and *natural language understanding (NLU)*.
