@@ -28,7 +28,7 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
- - Partners
+ - Sponsors
 
 ---
 

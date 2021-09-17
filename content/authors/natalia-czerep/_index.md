@@ -48,6 +48,7 @@ email: "poland@womeninai.co"
 # Organizational groups that you belong to (for People widget)
 user_groups:
  - Organizers
+ - "ML Researchers"
 
 ---
 Third year Computer Science student at University of Wrocław. Currently IT Analyst Intern at UBS working in a field of Cybersecurity. Former R&D intern in Computer Vision team @ Neurosys.

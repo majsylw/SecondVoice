@@ -76,6 +76,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 user_groups:
  - Organizers
+ -  "ML Researchers"
 
 ---
 

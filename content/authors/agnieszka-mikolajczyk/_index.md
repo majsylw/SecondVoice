@@ -70,6 +70,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
  - Organizers
+ - "ML Researchers"
 ---
 
 Author of scientific papers and publications, holding numerous scholarships and awards. Former organizer and a team leader at the open-source project detectwaste.ml. Daily, she conducts her research on her grant “Detecting and overcoming bias in data with explainable artificial intelligence” Preludium, awarded by Polish National Centre. She does her R&D work in the NLP team at Voicelab.ai . In her free time, she organizes and actively contributes to the scientific community.
