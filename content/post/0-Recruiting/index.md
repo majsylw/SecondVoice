@@ -10,7 +10,7 @@ featured: false
 draft: false
 
 image:
-  caption: 'Deafs are an excluded group. Hear.ai aims to make the world more accessible for the Deaf community.'
+  caption: 'Deafs are an excluded group. HearAI aims to make the world more accessible for the Deaf community.'
   focal_point: "Center"
   placement: 2
   preview_only: false
