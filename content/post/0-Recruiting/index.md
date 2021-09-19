@@ -42,11 +42,11 @@ We divided the project into three breakpoints:
 * November - January - Project planning.
 * January - April - Model design, training & testing.
 * April - June  - Article preparation & summary.
+
 To see detailed schedule [click here](https://www.hearai.pl/about/).
 
 Our plan includes various technical and non-technical workshops with experienced speakers and engineers.
-You will gain confidence in working in machine learning projects, have an opportunity to learn more about Deaf community problems and Sign Language, and expand your technical knowledge.\	 
-We managed to connect 5 ML Enthusiasts and 5 Mentors, but we know it is not enough!
+You will gain confidence in working in machine learning projects, have an opportunity to learn more about Deaf community problems and Sign Language, and expand your technical knowledge. We managed to connect 5 ML Enthusiasts and 5 Mentors, but we know it is not enough!
 
 # We are recruiting seven more people to join our team!
 We are looking for volunteers of all genders willing to commit to the 6-month-long project and spend their free time working on AI for good.
