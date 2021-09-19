@@ -32,23 +32,7 @@ title = "HearAI"
 
   # Text color (true=light or false=dark).
   text_color_light = true
-<!--
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://detectwaste.netlify.app/contributing/"
-  label = "How to contribute"
-  icon_pack = "fas"
-  icon = "clock"
 
-[cta_alt]
-  url = "http://tacodataset.org/"
-  label = "See dataset"
-
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = "There are several ways how you can help us" -->
 +++
 
 Non-profit project towards Sign Language Translation
