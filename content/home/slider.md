@@ -1,34 +1,31 @@
-+++
-# Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
 
-title = "HearAI"
+# Activate this widget? true/false
+active: true
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media = "hero.png"
+# This file represents a page section.
+headless: true
 
-[design.background]
+# Order that this section appears on the page.
+weight: 1
 
-  # Background color.
-  # color = "navy"
+title: "HearAI"
+subtitle: "Non-profit project towards Sign Language Translation"
 
-  # Background gradient.
-  gradient_start = "#f8ad9d"
-  gradient_end = "#f08080"
-
-  # Background image.
- image = "welcome.png"  
- image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
- image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
- image_position = "right"  # Options include `left`, `center` (default), or `right`.
- image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-
-  # Text color (true=light or false=dark).
-  text_color_light = true
-
-+++
-
-Non-profit project towards Sign Language Translation
+design:
+  columns: "1"
+  background:
+    image: welcome.png
+    image_darken: 0.4
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+advanced:
+  css_class: fullscreen
+---
