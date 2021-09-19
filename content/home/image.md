@@ -1,4 +1,4 @@
----
+---jpg
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: coders.png
     image_darken: 0
     image_parallax: false
     image_position: center
