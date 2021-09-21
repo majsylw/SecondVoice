@@ -1,13 +1,12 @@
-
 ---
 # Display name
-title: Milena Olech
+title: Krzysztof Borek-Ceszlak
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Intel Network Engineer | Maching Learning Researcher
+role: Machine Learning Project Manager
 
 # Organizations/Affiliations
 organizations:
@@ -15,13 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Network Software Developer, AI enthusiast"
-
-interests:
-- Artificial Intelligence
-- Quantum Physics
-- Math
-- Traveling
+bio: ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,15 +41,9 @@ email: "poland@womeninai.co"
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
- - Organizers
- - "ML Researchers"
+ - Mentors
+ 
 
 ---
-Milena completed master in mathematics at Gdansk University of Technology. Currently she has been working on various tools for Intel Network Adapters for over three years.
-After work she develops her skills in Artificial Intelligence and extends knowledge in quantum physics area.
-
-Skills: Networking, Machine Learning, Deep Learning, Neural Networks, Artificial Intelligence
-
-Soft skills: Responsibility, Flexibility, Open mind, Team-player, Creativity, Self-motivated
-
-Stack: C, Git, Python
+Na co dzień kierownik projektów AI, wykorzystujący zwinne metodyki zarządzania. Po godzinach trener Data Science. Entuzjasta sztucznej inteligencji, specjalizujący się w Deep Learning’u. Zwolennik przekazywania wiedzy od podstaw z praktycznym zrozumieniem tematów. Hobbystycznie konstruktor rozwiązań embedded
+...
