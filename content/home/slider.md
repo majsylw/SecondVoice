@@ -1,30 +1,33 @@
----
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
++++
+# Slider widget.
+widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
-# Activate this widget? true/false
-active: true
+# Slide interval.
+# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
+interval = false
 
-# This file represents a page section.
-headless: true
+# Slide height (optional).
+# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
+height = "700px"
 
-# Order that this section appears on the page.
-weight: 1
-height: 700px
-title: "HearAI"
-subtitle: "Non-profit project towards Sign Language Translation"
+# Slides.
+# Duplicate an `[[item]]` block to add more slides.
+[[item]]
+  title = "HearAI"
+  content = "Non-profit project towards Sign Language Translation"
+  align = "center"  
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "welcome.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-design:
-  columns: "1"
-  background:
-    image: welcome.png
-    image_darken: 0.4
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
-
----
+[[item]]
+    title = "What and why?"
+    content = "Deaf people are affected by many forms of exclusion, especially now in pandemic world. The idea of Polish Sign Language Translation project is to use Artificial Intelligence to translate polish sign language to text. Our goal is to use AI for Good."
+    align = "center"  
+    overlay_color = "#666"  # An HTML color value.
+    overlay_img = "welcome2.jpg"  # Image path relative to your `static/img/` folder.
+    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
++++
