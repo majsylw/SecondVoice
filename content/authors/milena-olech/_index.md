@@ -1,3 +1,4 @@
+
 ---
 # Display name
 title: Milena Olech
@@ -6,7 +7,7 @@ title: Milena Olech
 superuser: false
 
 # Role/position
-role: ML Engineer
+role: Intel Network Engineer | Maching Learning Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +15,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Network Software Developer, AI enthusiast"
+
+interests:
+- Artificial Intelligence
+- Quantum Physics
+- Math
+- Traveling
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,5 +52,11 @@ user_groups:
  - "ML Researchers"
 
 ---
+Milena completed master in mathematics at Gdansk University of Technology. Currently she has been working on various tools for Intel Network Adapters for over three years.
+After work she develops her skills in Artificial Intelligence and extends knowledge in quantum physics area.
 
-...
+Skills: Networking, Machine Learning, Deep Learning, Neural Networks, Artificial Intelligence
+
+Soft skills: Responsibility, Flexibility, Open mind, Team-player, Creativity, Self-motivated
+
+Stack: C, Git, Python
