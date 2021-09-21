@@ -25,8 +25,8 @@ height = "500px; background-position:center; background-repeat: no-repeat; backg
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-    title = "What and why?"
-    content = "Deaf people are affected by many forms of exclusion, especially now in pandemic world. The idea of Polish Sign Language Translation project is to use Artificial Intelligence to translate polish sign language to text. Our goal is to use AI for Good."
+    title = "Polish Sign Language"
+    content = "Breaking down the barriers towards better communication"
     align = "center"  
     overlay_color = "#666"  # An HTML color value.
     overlay_img = "welcome2.png"  # Image path relative to your `static/img/` folder.
