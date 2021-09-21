@@ -10,7 +10,9 @@ featured: false
 draft: false
 
 image:
+
   caption: 'Deaf are an excluded group. HearAI aims to make the world more accessible for the Deaf community.'
+
   focal_point: "Center"
   placement: 2
   preview_only: false
@@ -23,11 +25,15 @@ tags:
 - project
 
 ---
+
+
+
 **We are excited to announce that our project finally came to life!**
 
 ## What is HearAI
 HearAI is a nonprofit, educational project which aims to build deep learning solutions to make the world more accessible for the Deaf community.
 Our main goal is to expand the existing knowledge base, working on segmentation and detection of Polish Sign Language phrases.
+
 
 ## Why this topic?
 Deaf belong to the most excluded social groups.\
@@ -43,10 +49,19 @@ We divided the project into three breakpoints:
 * January - April - Model design, training & testing.
 * April - June  - Article preparation & summary.
 
-To see detailed schedule [click here](https://www.hearai.pl/about/).
+To see detailed schedule [clik here](https://www.hearai.pl/about/).\
+Our plan includes various technical and non-technical workshops with experienced speakers to expand our views on Deaf community problems, sign language, and technical knowledge. 	 
 
-Our plan includes various technical and non-technical workshops with experienced speakers and engineers.
-You will gain confidence in working in machine learning projects, have an opportunity to learn more about Deaf community problems and Sign Language, and expand your technical knowledge. We managed to connect 5 ML Enthusiasts and 5 Mentors, but we know it is not enough!
+You will gain confidence in working in machine learning projects, have an opportunity to learn more about Deaf community problems and Sign Language, and expand your technical knowledge.\
+For the next six months, we will work together and gather online every week. 	 
+
+ 
+
+We managed to connect 5 ML Enthusiasts and 5 Mentors, but we know it is not enough!
+
+
+
+
 
 # We are recruiting seven more people to join our team!
 We are looking for volunteers of all genders willing to commit to the 6-month-long project and spend their free time working on AI for good.
