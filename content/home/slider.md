@@ -18,7 +18,7 @@ height = "500px; background-position:center; background-repeat: no-repeat; backg
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "HearAI"
-  content = "Non-profit project towards Sign Language Translation"
+  content = "Non-profit project with the aim to use AI for Polish Sign Language"
   align = "center"  
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "welcome.png"  # Image path relative to your `static/img/` folder.
