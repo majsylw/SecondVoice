@@ -19,6 +19,5 @@ subtitle = ""
 +++
 
 Deaf people are affected by many forms of exclusion, especially now in pandemic world.
-
-The idea of *Polish Sign Language Translation* project is to use Artificial Intelligence to translate polish sign language to text.
-Our goal is to use *AI for Good*.
+HEARAI aim is to build deep learning solution to make the world more accessible for the Deaf community 
+and increasing existing knowledge base in using AI for Polish Sign Language.
