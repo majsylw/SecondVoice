@@ -6,7 +6,7 @@ title: Żaneta Lucka Tomczyk
 superuser: false
 
 # Role/position
-role: WAI Ambasador
+role: Women in AI Ambassador/ Program Manager @Orange
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Women in AI Ambassador/ Program Manager @Orange"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,4 +46,7 @@ user_groups:
 
 ---
 
-...
+Business Development Manager with 10+ years’ telecom market experience. AI enthusiast, women careers' supporter and mentor. Ambassador of polish Women in AI chapter.
+
+Privately passionate about yoga and meditation.
+
