@@ -48,3 +48,6 @@ user_groups:
 17 letnia dziewczyna . Od urodzenia niesłysząca, jednak to nie przeszkadza   w realizacji marzeń. Mimo, że rodzice również są osobami niesłyszącymi, Wiktoria porozumiewa się nie tylko językiem migowym, ale również werbalnie. Mimo tak głębokiego obustronnego niedosłuchu doskonale radzi sobie w świecie dźwięków. Jednak nie przyszło jej to łatwo, bo od najmłodszych lat ciężko pracowała z logopedą. Często bywały chwile załamania, ale dzięki wytrwałości motywacji terapeuty mowy zrobiła krok milowy w rozwoju mowy.
 
 Niebawem kończy 18 lat, od 3 roku życiu rozpoczęła swoją przygodę z nartami, która trwa do dziś.  Jest ona kadrowiczką reprezentując Polskę w narciarstwie alpejskich dla niesłyszących
+
+---
+Wiktoria is 17 year old girl, who was born Deaf. The disability didn't stop her from making her dreams come true. Although her parents are also Deaf, Wiktoria is bilingual, she knows Polish Sign Language and communicates verbaly in Polish. Despite suffering from bilateral hearing loss, she finds herself in the world of sounds very well. She did it because of her hard work with speech therapist. she had her ups and downs but thanks to her great perseverance and help from the professionals she developed her speech abilities.
