@@ -23,13 +23,8 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/women_in_ai
-- icon: github
-  icon_pack: fab
-  link: ""
+  link: "karolmajek@cifix.pl"  # For a direct email link, use "mailto:test@example.org".
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -46,4 +41,4 @@ user_groups:
 
 ---
 Na co dzień kierownik projektów AI, wykorzystujący zwinne metodyki zarządzania. Po godzinach trener Data Science. Entuzjasta sztucznej inteligencji, specjalizujący się w Deep Learning’u. Zwolennik przekazywania wiedzy od podstaw z praktycznym zrozumieniem tematów. Hobbystycznie konstruktor rozwiązań embedded
-...
+
