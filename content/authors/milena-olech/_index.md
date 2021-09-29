@@ -10,9 +10,9 @@ superuser: false
 role: Intel Network Engineer | Maching Learning Researcher
 
 # Organizations/Affiliations
-organizations:
-- name: WAI Poland
-  url: ""
+#organizations:
+#- name: ""
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Network Software Developer, AI enthusiast"
@@ -31,12 +31,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/women_in_ai
 - icon: github
   icon_pack: fab
-  link: ""
+  link: "https://github.com/MilenaOlech"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
