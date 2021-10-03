@@ -10,17 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Deep Learning Researcher, PhD Candidate in Physics, STEM Teacher
+role: ML Lead | Data Scientist, PhD Candidate in Physics, STEM Teacher
 
 # Organizations/Affiliations
 organizations:
-- name: NeuroSYS 
-  url: "https://neurosys.com/"
+- name: AI Sweden
+  url: "https://www.ai.se/en"
 - name: Wroclaw University of Science and Technology
   url: "https://pwr.edu.pl/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Physics at Wroclaw University of Science and Technology, and Deep Learning Researcher at NeuroSYS. She is a big fan of Python, eager to learn more about data science and machine learning.
+bio: PhD student in Physics at Wroclaw University of Science and Technology, and Data Scientist in Eye for AI - a Graduate Program for Future Leaders in AI. She is a big fan of Python, eager to learn more about data science and machine learning.
 
 interests:
 - Computer Vision
@@ -82,6 +82,7 @@ user_groups:
 
 Sylwia completed master studies in mathematics at the University of Wrocław, as well as in physics at the Wrocław University of Science and Technology, where she continues her education towards the doctorate degree. Currently she investigates novel nonlinear optical phenomena that occur in multimode optical fibers by developing numerical tools to identify the impact of several modeling approximations for typical experimental parameters. 
 In her professional career, she is designing and developing deep learning algorithms for image processing using neural network models. She was a member of a team working on developing a method to automate the analysis of bacterial colonies on Petri dishes using artificial neural networks and machine learning algorithms, in particular, to classify the type of bacteria and to determine the number of colonies.
+As a member of women team she conducted comprehensive research on Artificial Intelligence (AI) usage in waste detection and classification to tackle the world’s waste pollution problem ([Detect Waste in Pomerania project](https://detectwaste.ml/)). As a result an open-source framework that enables detection and classification of litter was developed. It can be used to sort garbage, or monitor the environment.
 She is also a mentor in many volunteering programs, in which she teaches programming and tech knowledge at schools to increase interest in the STEM (Science, Technology, Engineering, Mathematics) area among children.
 
 [**Click here to visit her website**](https://majsylw.netlify.app/)
