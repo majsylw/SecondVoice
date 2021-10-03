@@ -46,7 +46,7 @@ Na co dzień kierownik projektów AI, wykorzystujący zwinne metodyki zarządzan
 
 ---
 
-On the daily basis he is a head of AI projects, working in Agile. In his free time he is a Data Science trainer. Artificial Intelligence ethusiast, specialized in Deep Learning. Advocate for learning through practice.
+On the daily basis Krzysztof is a head of AI projects, working in Agile. In his free time he is a Data Science coach. Artificial Intelligence ethusiast, specialized in Deep Learning. Advocate for learning through practice.
 
 Hobby: Embedded solutions constructor.
 
