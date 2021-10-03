@@ -49,7 +49,7 @@ We divided the project into three breakpoints:
 * January - April - Model design, training & testing.
 * April - June  - Article preparation & summary.
 
-To see detailed schedule [clik here](https://www.hearai.pl/about/).\
+To see detailed schedule [click here](https://www.hearai.pl/about/).\
 Our plan includes various technical and non-technical workshops with experienced speakers to expand our views on Deaf community problems, sign language, and technical knowledge. 	 
 
 You will gain confidence in working in machine learning projects, have an opportunity to learn more about Deaf community problems and Sign Language, and expand your technical knowledge.\

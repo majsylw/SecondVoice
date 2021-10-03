@@ -6,12 +6,12 @@ title: Adela Rużyła-Wrzeszcz
 superuser: false
 
 # Role/position
-role: WAI Support
+role: WAI Support | Head of the Knowledge and Sales Communication Department @Orange
 
 # Organizations/Affiliations
 organizations:
-- name: WAI Poland
-  url: "https://www.linkedin.com/showcase/women-in-ai-poland/"
+- name: Orange Polska
+  url: "https://www.orange.pl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -24,12 +24,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/women_in_ai
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/aruzyla-wrzeszcz"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -37,7 +35,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "poland@womeninai.co"
+email: "ruzyla@wp.pl"
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
@@ -45,4 +43,4 @@ user_groups:
 
 ---
 
-...
+An expert in the fild of knowledge management and development programs with over 10 years of experience in the HR field. She can develip and implement effective strategies which have increased the level of effectiveness by approx. 30% year on year. She effectively manages her team and the budget.

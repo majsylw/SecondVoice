@@ -10,8 +10,8 @@ role: Machine Learning Project Manager
 
 # Organizations/Affiliations
 organizations:
-- name: WAI Poland
-  url: ""
+- name: Toucan Systems
+  url: "https://www.toucan-systems.pl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -23,7 +23,10 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: "karolmajek@cifix.pl"  # For a direct email link, use "mailto:test@example.org".
+  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/krzysztof-bork-ceszlak-3b999610b
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -32,13 +35,18 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "poland@womeninai.co"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
  - Mentors
- 
 
 ---
-Na co dzień kierownik projektów AI, wykorzystujący zwinne metodyki zarządzania. Po godzinach trener Data Science. Entuzjasta sztucznej inteligencji, specjalizujący się w Deep Learning’u. Zwolennik przekazywania wiedzy od podstaw z praktycznym zrozumieniem tematów. Hobbystycznie konstruktor rozwiązań embedded
+Na co dzień kierownik projektów AI, wykorzystujący zwinne metodyki zarządzania. Po godzinach trener Data Science. Entuzjasta sztucznej inteligencji, specjalizujący się w Deep Learningu. Zwolennik przekazywania wiedzy od podstaw z praktycznym zrozumieniem tematów. Hobbystycznie konstruktor rozwiązań embedded.
+
+---
+
+On the daily basis Krzysztof is a head of AI projects, working in Agile. In his free time he is a Data Science coach. Artificial Intelligence ethusiast, specialized in Deep Learning. Advocate for learning through practice.
+
+Hobby: Embedded solutions constructor.
 
