@@ -6,12 +6,11 @@ title: Adela Rużyła-Wrzeszcz
 superuser: false
 
 # Role/position
-role: WAI Support | Head of the Knowledge and Sales Communication Department @Orange
+role: WAI Support | Senior Project Manager
 
 # Organizations/Affiliations
-organizations:
-- name: Orange Polska
-  url: "https://www.orange.pl/"
+#organizations:
+#- name: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -43,4 +42,11 @@ user_groups:
 
 ---
 
-An expert in the fild of knowledge management and development programs with over 10 years of experience in the HR field. She can develip and implement effective strategies which have increased the level of effectiveness by approx. 30% year on year. She effectively manages her team and the budget.
+Knowledge management and development expert with over 20 years of experience.
+Up to now, responsible for building development programs, certification programs, supervisions, trainings, knowledge base. An organizer of TedxOrange and Orange Digital Meetup - popularizing digitalization in not only modern technologies.
+
+Lecturer at industry conferences, among others: HR Breakfast - Wolter Kluwer S.A, Sales Congress- Modern Company, Coustomer Service Excellence- Trio Conferences.  
+Master of Economics, she completed postgraduate studies in Human Resource Management and Master of Business Administration for HR staff at Kozminski University, postgraduate studies at SWPS University in vocational counseling, educational counseling and job-coaching.
+She supports LifeSklills Foundation where she conducts classes for young people helping them build competencies necessary in modern business. Cooperates with Kozminski University and Lazarski University as a lecturer.
+
+In 2020 she joined the Women in IA Association to share experience and actively change the role of women in artificial intelligence.
