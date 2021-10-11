@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Krzysztof Borek-Ceszlak
+title: Krzysztof Bork-Ceszlak
 
 # Is this the primary user of the site?
 superuser: false
