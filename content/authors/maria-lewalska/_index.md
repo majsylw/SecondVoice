@@ -21,9 +21,7 @@ bio: Pedagogy with preschool and early childhood education student with experien
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/maria-lewalska-3b699b223/
@@ -35,7 +33,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 
+
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
