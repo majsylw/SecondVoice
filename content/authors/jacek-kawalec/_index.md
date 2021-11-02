@@ -6,7 +6,7 @@ title: Jacek Kawalec
 superuser: false
 
 # Role/position
-role: Partner @ VoiceLab | Startegy Director @ dih4.ai
+role: Partner @ VoiceLab | Strategy Director @ dih4.ai
 
 # Organizations/Affiliations
 organizations:
