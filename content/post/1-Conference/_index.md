@@ -1,10 +1,10 @@
 ---
 title: HAI Virtual Event
-subtitle: 
-summary: 
+subtitle: Surprise online event open for everyone. 
+summary: Read about our virtual event and how to join it.
 
-date: "2021-09-12T00:00:00Z"
-lastmod: "2021-09-12T00:00:00Z"
+date: "2021-11-03T00:00:00Z"
+lastmod: "2021-11-03T00:00:00Z"
 
 featured: false
 draft: false
@@ -18,7 +18,7 @@ image:
   preview_only: false
 
 authors:
-- Marta Plantykow
+- "Marta Plantykow"
 
 tags:
 - event
@@ -42,14 +42,14 @@ Wanna know more about it? Join our event!
 
 ## Timeline (UTC+1):
 ### Saturday, Nov 20th:
-12:00 PM - 13:00 PM Agnieszka Kamińska "Mózgowe podłoże Języka Migowego" (Session in Polish)
+12:00 PM - 13:00 PM Agnieszka Kamińska "Mózgowe podłoże Języka Migowego" (Session in Polish)<br>
 12:00 PM - 13:00 PM Agnieszka Kamińska Q&A (Session in Polish)
 
 ### Sunday, Nov 21st:
-10:00 AM - 11:00 AM Justyna Kotowicz "Język migowy i procesy poznawcze u osób G/głuchych" (Session in Polish)
-11:00 AM - 11: 30 AM Justyna Kotowicz Q&A
-12:00 PM - 13:00 PM Bencie Woll "Working with sign language in the wild" (session in English)
-13:00 - 13:30 Bencie Wol Q&A
+10:00 AM - 11:00 AM Justyna Kotowicz "Język migowy i procesy poznawcze u osób G/głuchych" (Session in Polish)<br>
+11:00 AM - 11: 30 AM Justyna Kotowicz Q&A<br>
+12:00 PM - 13:00 PM Bencie Woll "Working with sign language in the wild" (session in English)<br>
+13:00 - 13:30 Bencie Wol Q&A<br>
 14:00 - 15:30 Maria Lewalska - Polish Sign Language introductory lesson (Session in Polish)
 
 ## How to join?
