@@ -1,7 +1,8 @@
 ---
 title: HAI Virtual Event
 subtitle: Surprise online event open for everyone
-summary: Read about our motivation, plan, and recruitment process.
+summary: Read about our virtual event and how to join it.
+
 
 date: "2021-11-03T00:00:00Z"
 lastmod: "2021-11-03T00:00:00Z"
