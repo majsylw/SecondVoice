@@ -2,12 +2,8 @@
 # Display name
 title: Marta Plantykow
 
-# Username (this should match the folder name)
-authors:
-- Name: "Marta Plantykow"
-
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Network Engineer@Intel | Women in AI Poland
