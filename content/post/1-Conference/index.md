@@ -66,7 +66,7 @@ Wanna know more about it? Join our event!
 
 ## How to join?
 
-Stay tuned for our next posts and check our [linkedin](https://www.linkedin.com/showcase/women-in-ai-poland/)!
+Please register for free [here](https://www.eventbrite.com/e/hearai-educational-event-tickets-208484772567)!
 
 ## Already have some plans for that day?
 
