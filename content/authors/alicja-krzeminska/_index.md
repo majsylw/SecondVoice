@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Researcher First
+title: Alicja Krzemińska
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,11 +10,13 @@ role: ML Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: WAI Poland
+- name: University of Science and Technology in Kraków (AGH)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: Computer Science student at University of Science and Technology in Kraków (AGH). Junior AI Specialist in Fitech Automation 
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,13 +25,11 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'akrzeminska1519@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/women_in_ai
-- icon: github
-  icon_pack: fab
-  link: ""
+  link:  https://www.linkedin.com/in/alicja-krzemi%C5%84ska-5ba62a14a/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -37,12 +37,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "poland@womeninai.co"
+email: "akrzeminska1519@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
+ 
  - "ML Researchers"
 
 ---
-
-...
+Computer Science student at University of Science and Technology in Kraków (AGH). 
+Junior AI Specialist in Fitech Automation developing deep learning algorithms for PCB optical inspection.
+Active researcher in the students scientific association AI Lab & Glider,
+interested in computer vision solutions for medical purposes. Flutist in the concert band ORAGH.
