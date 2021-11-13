@@ -65,8 +65,8 @@ Wanna know more about it? Join our event!
 14:00 PM - 15:30 PM Maria Lewalska - Polish Sign Language introductory lesson (Session in Polish)
 
 ## How to join?
-
-Please register for free [here](https://www.eventbrite.com/e/hearai-educational-event-tickets-208484772567)!
+Soon to be announced.
+Please keep up with us!
 
 ## Already have some plans for that day?
 
