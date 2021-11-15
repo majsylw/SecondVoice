@@ -14,8 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-PhD student at Gdansk University of Technology
+bio: "PhD student at Gdansk University of Technology"
 
 
 # Social/Academic Networking
