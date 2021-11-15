@@ -54,7 +54,7 @@ Wanna know more about it? Join our event!
 ### Saturday, Nov 20th
 
 12:00 PM - 13:00 PM Agnieszka Kamińska "Mózgowe podłoże Języka Migowego" (Session in Polish) <br>
-12:00 PM - 13:00 PM Agnieszka Kamińska Q&A (Session in Polish)
+13:00 PM - 13:30 PM Agnieszka Kamińska Q&A (Session in Polish)
 
 ### Sunday, Nov 21st
 
@@ -65,8 +65,7 @@ Wanna know more about it? Join our event!
 14:00 PM - 15:30 PM Maria Lewalska - Polish Sign Language introductory lesson (Session in Polish)
 
 ## How to join?
-Soon to be announced.
-Please keep up with us!
+[Register for free here!](https://www.eventbrite.ca/e/hearai-ai-for-sign-language-recognition-wai-poland-tickets-209401474447 )
 
 ## Already have some plans for that day?
 

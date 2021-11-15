@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Researcher Fourth
+title: Agnieszka Kurzajewska
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,26 +10,20 @@ role: ML Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: WAI Poland
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: 
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/women_in_ai
-- icon: github
-  icon_pack: fab
-  link: ""
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -37,12 +31,16 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "poland@womeninai.co"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
+ 
  - "ML Researchers"
 
 ---
+Computer Science student at the Wrocław University of Technology with a specialization in algorithmics. 
+In addition to studying, whe deepens her knowledge in the field of computer science by working as a developer.
+She is also a voluntary children toutor in mathematics and physics
 
-...
+ 

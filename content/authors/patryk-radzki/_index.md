@@ -1,20 +1,22 @@
 ---
 # Display name
-title: Researcher Third
+title: Patryk Radzki
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ML Engineer
+role: Process safety & reliability analyst 
 
 # Organizations/Affiliations
 organizations:
-- name: WAI Poland
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Process safety & reliability analyst since 2018. A graduate of the Gdańsk University of Technology -
+Faculty of Electrical & Control Engineering, focused on functional safety and computer vision."
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,13 +25,11 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'patryk.radzki@outlook.com'  # For a direct email link, use "mailto:test@example.org".
+
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/women_in_ai
-- icon: github
-  icon_pack: fab
-  link: ""
+  link:  https://www.linkedin.com/in/patryk-radzki/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -37,12 +37,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "poland@womeninai.co"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
+ 
  - "ML Researchers"
 
 ---
 
-...
+ Process safety & reliability analyst since 2018. A graduate of the Gdańsk University of Technology -
+Faculty of Electrical & Control Engineering, focused on functional safety and computer vision.
