@@ -14,8 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-CEO, Machine Learning Consultant  at POLQUANT, AI Manager
+bio: "CEO, Machine Learning Consultant  at POLQUANT, AI Manager"
 
 
 # Social/Academic Networking
