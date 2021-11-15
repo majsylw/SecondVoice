@@ -54,7 +54,7 @@ Wanna know more about it? Join our event!
 ### Saturday, Nov 20th
 
 12:00 PM - 13:00 PM Agnieszka Kamińska "Mózgowe podłoże Języka Migowego" (Session in Polish) <br>
-12:00 PM - 13:00 PM Agnieszka Kamińska Q&A (Session in Polish)
+13:00 PM - 13:30 PM Agnieszka Kamińska Q&A (Session in Polish)
 
 ### Sunday, Nov 21st
 
