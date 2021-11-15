@@ -14,8 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: AI Engineer on
-Industrial Computer Vision projects
+bio: "AI Engineer on Industrial Computer Vision projects"
 
 
 
