@@ -10,11 +10,11 @@ role: ML Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: POLQUANT
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "CEO, Machine Learning Consultant  at POLQUANT, AI Manager"
+bio: 
 
 
 # Social/Academic Networking
