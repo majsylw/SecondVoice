@@ -37,7 +37,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 user_groups:
  - Speakers
-
+ - "ML Researchers"
 ---
 
 Agnieszka gained her research experience in Cognitive Neuroscience. 
