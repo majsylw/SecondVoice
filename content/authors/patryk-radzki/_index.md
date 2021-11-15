@@ -14,9 +14,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-Process safety & reliability analyst since 2018. A graduate of the Gdańsk University of Technology -
-Faculty of Electrical & Control Engineering, focused on functional safety and computer vision.
+bio: "Process safety & reliability analyst since 2018. A graduate of the Gdańsk University of Technology -
+Faculty of Electrical & Control Engineering, focused on functional safety and computer vision."
 
 
 # Social/Academic Networking
