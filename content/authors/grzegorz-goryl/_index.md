@@ -10,7 +10,7 @@ role: ML Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: POLQUANT
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
