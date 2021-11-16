@@ -25,6 +25,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: ' maria.ferlin@pg.edu.pl'  # For a direct email link, use "mailto:test@example.org".
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mariaogryczak
+- icon: website
+  icon_pack: https://mferlin.netlify.app/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/maria-ferlin-b86770162/
+  
 
 
 # Link to a PDF of your resume/CV from the About widget.
