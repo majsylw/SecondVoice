@@ -29,7 +29,8 @@ social:
   icon_pack: fab
   link: https://github.com/mariaogryczak
 - icon: webpage
-  icon_pack: https://mferlin.netlify.app/
+  icon_pack: fas
+  link: https://mferlin.netlify.app/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/maria-ferlin-b86770162/
