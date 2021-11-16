@@ -28,7 +28,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mariaogryczak
-- icon: website
+- icon: webpage
   icon_pack: https://mferlin.netlify.app/
 - icon: linkedin
   icon_pack: fab
