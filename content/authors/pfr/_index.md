@@ -1,12 +1,12 @@
 ---
 # Display name
-title:  Polski Fundusz Rozwoju
+title:  Fundacja PFR
 
 # Is this the primary user of the site?
 superuser: false
 
 authors:
-- Name:  Polski Fundusz Rozwoju
+- Name:  Fundacja PFR
 
 # Role/position
 role:  Polski Fundusz Rozwoju

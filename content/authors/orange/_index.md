@@ -1,15 +1,15 @@
 ---
 # Display name
-title:  Orange Poland
+title:  Orange Polska
 
 # Is this the primary user of the site?
 superuser: false
 
 authors:
-- Name:  Orange Poland
+- Name:  Orange Polska
 
 # Role/position
-role:  
+role:  Orange Polska
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
