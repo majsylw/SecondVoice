@@ -24,7 +24,7 @@ bio: "PhD student at Gdansk University of Technology"
 social:
 - icon: envelope
   icon_pack: fas
-  link: ' maria.ferlin@pg.edu.pl'  # For a direct email link, use "mailto:test@example.org".
+  link: ' mailto:maria.ferlin@pg.edu.pl'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/mariaogryczak
