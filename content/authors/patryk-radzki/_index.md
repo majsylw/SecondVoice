@@ -25,7 +25,7 @@ Faculty of Electrical & Control Engineering, focused on functional safety and co
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'patryk.radzki@outlook.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:patryk.radzki@outlook.com'  # For a direct email link, use "mailto:test@example.org".
 
 - icon: linkedin
   icon_pack: fab
