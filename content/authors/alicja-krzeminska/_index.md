@@ -25,7 +25,7 @@ bio: Computer Science student at University of Science and Technology in Kraków
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'akrzeminska1519@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:akrzeminska1519@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 
 - icon: linkedin
   icon_pack: fab
