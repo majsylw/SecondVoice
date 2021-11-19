@@ -25,7 +25,7 @@ bio: "AI Engineer on Industrial Computer Vision projects"
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'wiktor.filipiuk@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:wiktor.filipiuk@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 
 - icon: linkedin
   icon_pack: fab

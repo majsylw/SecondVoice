@@ -22,9 +22,7 @@ bio: "PhD student at Gdansk University of Technology"
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: ' maria.ferlin@pg.edu.pl'  # For a direct email link, use "mailto:test@example.org".
+
 - icon: github
   icon_pack: fab
   link: https://github.com/mariaogryczak
