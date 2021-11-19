@@ -24,7 +24,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'greg@polquant.pl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:greg@polquant.pl'  # For a direct email link, use "mailto:test@example.org".
 
 - icon: linkedin
   icon_pack: fab
