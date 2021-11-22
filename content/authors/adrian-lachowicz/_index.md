@@ -37,10 +37,10 @@ user_groups:
  - "ML Researchers"
 
 
+
+---
+
 Student at Information Technology High School in Tarnów. I am passionate about Artificial Intelligence especially Computer Vision.
 I have been programming in Python and C++ for 2 years.
 At the moment I am focusing on getting practical experience in ML and CV
 Privately, I play volleyball and I am a referee of this sport.
-
----
-
