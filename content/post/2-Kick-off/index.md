@@ -47,7 +47,7 @@ After creating a list of attendees, it was time to kick off the project.<br>
 On November 16th, organizers, recruited volunteers, mentors, team members, and partners met together for the first time to launch a project and start working on HearAI challenges officially.
 The meeting was divided into four main parts. <br>
 
-![Quick photo of everyone involved]()
+![Quick photo of everyone involved](./preview-full-1637181330439 (1).jfif)
 
 The first one was a brief overview of the fundamental organizational aspects. To make sure we were on the same page, we defined the purposes and motivations of the project. We agreed that our primary goal is to **extend existing knowledge and public awareness**.<br>
 
