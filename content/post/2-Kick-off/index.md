@@ -47,7 +47,7 @@ After creating a list of attendees, it was time to kick off the project.<br>
 On November 16th, organizers, recruited volunteers, mentors, team members, and partners met together for the first time to launch a project and start working on HearAI challenges officially.
 The meeting was divided into four main parts. <br>
 
-![Quick photo of everyone involved](https://github.com/majsylw/SecondVoice/blob/kickoff-post/content/post/2-Kick-off/preview-full-1637181330439%20(1).jpg)
+![See everyone involved](SecondVoice/content/post/2-Kick-off/preview-full-1637181330439%20(1).jpg?raw=true "See everryone involved")
 
 The first one was a brief overview of the fundamental organizational aspects. To make sure we were on the same page, we defined the purposes and motivations of the project. We agreed that our primary goal is to **extend existing knowledge and public awareness**.<br>
 
