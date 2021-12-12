@@ -23,10 +23,12 @@ content:
       id: 2
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
+      captcha_key: SITE_KEY
 
 design:
   columns: '1'
+
 ---
 
 
