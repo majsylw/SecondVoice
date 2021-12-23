@@ -38,7 +38,7 @@ tags:
 It was a great chance to explore the topic of sign language, the Deaf Culture and problems concerning sign language translations. <br>
 It is crucial knowledge at the beginning of this project as diving deep into the problem enables good understanding of challenges. <br>
 
-## I speach 
+## I speech 
 
 On November 20th we had the pleasure to listen to **Agnieszka Kamińska**, one of our organizers who introduced us into the subject of the cerebral basis of sign language.<br>
 The brain activity is usually studied using Magnetic Resonance Imaging (MRI) that enables observation of regions of activation during a given task (see Fig. 1). <br>
@@ -53,7 +53,7 @@ However, there is a visible difference between gestures and signs of sign langua
 </center>
 <br>
 
-## II speach 
+## II speech 
 
 The next day was even more exciting as we had more presentations.<br>
 First one was delivered by **Justyna Kotowicz** and referred to the Sign language and cognitive processes of D/deaf people. <br>
@@ -68,7 +68,7 @@ That is why, Deaf children of hearing parents most often have problems with the 
 </center>
 <br>
 
-## III speach 
+## III speech 
 
 Just after this presentation, **Bencie Woll** told us a little about Sign language in the wild: linguistic, technological and cultural challenges.<br>
 This presentation was extremely vital for us as it pointed out some problems and traps that we can fall into during the project.<br>
@@ -81,7 +81,7 @@ not hands and many existing solutions don’t even consider mimicry. <br>
 Another problem are complicated devices that Deaf people are supposed to wear – for them it’s simply uncomfortable.<br>
 And the most important thing is to consider their needs – for instance the system with polish letter recognition is useless for them as these letters are from foreign language for them.<br>
 
-## IV speach 
+## IV speech 
 
 The last presentation was held by **Maria Lewalska**, our team member, who gave us an introductory lesson about sign language.<br>
 She confronted us with commonly known myths about Deaf people and next explained the difference between Polish Sign Language (PJM) and Sign Language System (SJM). <br>
