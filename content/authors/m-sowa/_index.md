@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Marek Sowa
-name: Marek Sowa
+
 
 # Username (this should match the folder name)
 authors:
