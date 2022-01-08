@@ -19,13 +19,7 @@ organizations:
   url: "https://cufix.pl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Self-Driving Car Engineer and Mobile Robotics Engineer,(not anymore) a mentor at Udacity‘s Self-Driving Car Nanodegree. Organizing Warsaw SDC Meetup. Actively working on mobile robots and deep neural networks
-
-
-interests:
-- Computer vision 
-- Instance segmentation and detection
-- Self-Driving cars
+bio: Self-Driving Car Engineer and Mobile Robotics Engineer
 
 
 # Social/Academic Networking
@@ -63,3 +57,10 @@ user_groups:
 
 
 [**Click here to visit his website**](https://karolmajek.pl/)
+Self-Driving Car Engineer and Mobile Robotics Engineer,(not anymore) a mentor at Udacity‘s Self-Driving Car Nanodegree. Organizing Warsaw SDC Meetup. Actively working on mobile robots and deep neural networks
+
+
+interests:
+- Computer vision 
+- Instance segmentation and detection
+- Self-Driving cars
