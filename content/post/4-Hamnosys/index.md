@@ -45,7 +45,7 @@ Hand shape, Hand position and Movement refers to the initial position for a give
 
 Let’s analyze all of the blocks:
 
-***Symmetry operator* **– It is optional, since it is used only for Two-handed Signs. It determines how the shape of a dominant hand differs from non-dominant hand. Do not worry if you do not understand this pretty complicated explanation yet – we will go through some examples later.
+***Symmetry operator***– It is optional, since it is used only for Two-handed Signs. It determines how the shape of a dominant hand differs from non-dominant hand. Do not worry if you do not understand this pretty complicated explanation yet – we will go through some examples later.
 
 ***Non Manual Features (NMF)*** – It is optional, since only some of the words in sign language implement it.  The list of NMFs is limited to 12 symbols, that represents for example puffed or sucked in cheeks.
 
@@ -70,7 +70,8 @@ For two-handed signs the location may also describe the relation of two hands to
 ***Movement/Action*** – represents a combination of path movements, that can be specified as targeted/absolute (location) or relative (direction and size) movements. For the purpose of the introduction only example movements are presented in a table below.
 More detailed description will be presented in next post.
 
-![](./fig6.jpg)
+![](./gig6.jpg)
+
 For all movement components  a diacritic symbol that specifies size, movement mode, number of repetition actions can be added. 
 
 When there is more than one movement sign it can be written in one of two forms:
@@ -81,9 +82,11 @@ For two handed actions it is possible to specify different actions for each of t
 
 
 ### Let’s analyze some one handed examples!
-*Example - Good*
-Let’s start with a pretty simple example – word “dobrze” (ang. good) from a Polish Sign Language is presented on a picture below (initial and final form). According to Polish Sign Language Dictionary (org. Korpusowy Słownik Polskiego Języka Migowego) its HamNoSys version has a following form: .
+*Example - Good*<br>
+Let’s start with a pretty simple example – word “dobrze” (ang. good) from a Polish Sign Language is presented on a picture below (initial and final form). According to Polish Sign Language Dictionary (org. Korpusowy Słownik Polskiego Języka Migowego) its HamNoSys version has a following form:
+
 ![](./fig7.jpg) 
+
 Each of the symbols used in the HamNoSys description fits into the beforementioned blocks as following:
 
 ![](./fig8.jpg)
@@ -93,9 +96,11 @@ As you can see, in the initial form 1st and 2nd fingers are <span style="color:g
 ***Example - Have***
 Another simple example: Word “mieć” (ang. have/possess) in Polish Sign Language. In this case, only one frame is presented since the sign initial and final form is the same. 
 
-HamNoSys description:
 
-![](./fig9.jpg)
+
+![](./gig9.jpg)
+
+![](./gig10.jpg)
  
 As presented on a video frame, hand is <span style="color:green">flat</span>, thumb is <span style="color:green">out</span>, extension finger is directed <span style="color:blue">left</span>, hand is placed on a <span style="color:orange">chest</span>, so the distance is described as <span style="color:darkorange">a contact with the body.</span> There is no movement.
     
@@ -103,9 +108,8 @@ As presented on a video frame, hand is <span style="color:green">flat</span>, th
 ***Example – Morning***
 Word “rano” (ang. Morning) is presented below together with it’s Hamnosys description.
  
-HamNoSys description:
 
-![](./fig10.jpg)
+![](./fig11.jpg)
 
 Initially fingers are <span style="color:green">pinched</span>, extension finger is directed <span style="color:blue">up</span>, thumb is directed <span style="color:blue">down-left</span>, hand touches <span style="color:orange">the cheek</span>. Initially the hand has <span style="color:orange">contact with the body (cheek)</span>. In movement the initial shape is replaced to <span style="color:darkorange">finger 2, thumb out</span>.
 
@@ -114,7 +118,7 @@ Aforementioned examples are quite simple. To dive deeper into Hamnosys, let’s 
    
 HamNoSys description:
 
-![](./fig11.jpg)
+![](./fig12.jpg)
 
 This time the hamnosys symbol is described using a symmetry operator that indicates *up/down symmetry* of a movement. In initial form both hands are <span style="color:green">fisted with thumb crossed</span>. Dominant hand extension finger is directed <span style="color:blue">up-left</span>, with a palm directed <span style="color:blue">left</span>. Nondominant hand extension finger is directed up-right, with a palm directed right. Frontal pane symbol is not used. Movement is described as <span style="color:darkorange">going down</span> (since dominant hand is going down) <span style="color:darkorange">repeated once.</span>
 
