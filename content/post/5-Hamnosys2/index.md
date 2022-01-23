@@ -1,5 +1,5 @@
 ---
-title: Introduction to HamNoSys. Part 2.
+title: Introduction to HamNoSys Part 2
 subtitle: Hamburg Sign Language Notation System  - the introduction 
 summary: Read about symmetry operators, hand shape, hand position, and hand location representation in HamNoSys.
 
