@@ -4,8 +4,8 @@ subtitle: Hamburg Sign Language Notation System  - the introduction
 summary: Read about symmetry operators, hand shape, hand position, and hand location representation in HamNoSys.
 
 
-date: "2022-01-20T00:00:00Z"
-lastmod: "2022-01-20T00:00:00Z"
+date: "2022-01-23T00:00:00Z"
+lastmod: "2022-01-23T00:00:00Z"
 
 featured: false
 draft: false
