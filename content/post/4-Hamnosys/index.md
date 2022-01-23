@@ -1,4 +1,3 @@
-
 ---
 title: Introduction to HamNoSys
 subtitle: Hamburg Sign Language Notation System 
