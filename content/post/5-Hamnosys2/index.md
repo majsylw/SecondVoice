@@ -74,15 +74,15 @@ Overrating defaults for both open handshapes and thumb combinations is performed
 
 ![](./post12.jpg)
 
-In default form, when  (finger 2) is used, the second finger (meaning index finger) is pointing out. This form can be modified using numbers, which means that the small finger is pointing out. For example, we can use words jeden (ang. One) and obcy (ang. Foreigner) presented in pictures below.
+In default form, when ![](./f1.jpg) (finger 2) is used, the second finger (meaning index finger) is pointing out. This form can be modified using numbers, which ![](./f2.jpg) means that the small finger is pointing out. For example, we can use words jeden (ang. One) and obcy (ang. Foreigner) presented in pictures below.
 
 ![](./post13.jpg)
 
-In the case of  (finger 23) in default form, the second and the third finger are pointing out. This handshape can be modified by overwriting both finger numbers. For example,  it means that the index finger and small finger are straightened. Example words are presented below, words żaba (ang. Frog) and samolot (ang. Plane).
+In the case of ![](./f3.jpg) (finger 23) in default form, the second and the third finger are pointing out. This handshape can be modified by overwriting both finger numbers. For example, ![](./f4.jpg) it means that the index finger and small finger are straightened. Example words are presented below, words żaba (ang. Frog) and samolot (ang. Plane).
 
 ![](./post14.jpg)
 
-In the case of thumb combinations, an additional number specifies selected fingers. For example, the shape  stands for index finger pinched with the thumb. If the shape  is used, then the index finger and the middle finger are pinched. The first two pictures below represent  (original and zoomed), the other two means  (actual and zoomed).
+In the case of thumb combinations, an additional number specifies selected fingers. For example, the shape ![](./f6.jpg) stands for index finger pinched with the thumb. If the shape ![](./f5.jpg) is used, then the index finger and the middle finger are pinched. The first two pictures below represent ![](./f6.jpg) (original and zoomed), the other two means ![](./f5.jpg) (actual and zoomed).
 
 ![](./post15.jpg)
 
@@ -90,23 +90,23 @@ Defining finger parts introduces a new set of symbols that are described below:
 
 ![](./post16.jpg)
 
-Each of those symbols can be used to modify the handshape (its base form) if combined with the previously introduced finger numbers. The number is written just after a handshape may indicate a lower finger number. After that, a symbol defining the point of contact and upper finger number must be used. A frame from a video of a man signing the word rodzice (ang. parents) described as  is presented in a picture below.
+Each of those symbols can be used to modify the handshape (its base form) if combined with the previously introduced finger numbers. The number is written just after a handshape may indicate a lower finger number. After that, a symbol defining the point of contact and upper finger number must be used. A frame from a video of a man signing the word rodzice (ang. parents) described as ![](./f7.jpg) is presented in a picture below.
 
 ![](./post17.jpg)
 
 ![](./post18.jpg)
 
 In our previous post, we introduced four possible thumb positions. This aspect of a sign can be modified for all of the thumb combinations form.
-For one of the hand base forms -  (fist), the thumb position may take more forms, since the thumb may be placed in between fingers or hidden. In such a case, the additional operator  is used along with finger numbers to describe the thumb position. All possible cases are described below:
+For one of the hand base forms - ![](./f8.jpg) (fist), the thumb position may take more forms, since the thumb may be placed in between fingers or hidden. In such a case, the additional operator ![](./f9.jpg) is used along with finger numbers to describe the thumb position. All possible cases are described below:
 
 ![](./post19.jpg)
 
 
-Since this particular sign is hard to find in our examples, let’s use a fist () and fig signs () from Wikipedia. 
+Since this particular sign is hard to find in our examples, let’s use a fist ![](./f10.jpg) and fig signs ![](./f11.jpg) from Wikipedia. 
 
 ![](./post20.jpg)
 
-Bending can apply not only to a whole hand but also to a particular finger. In such a case additional bending operator is used along with the finger number. We can use  as an example:
+Bending can apply not only to a whole hand but also to a particular finger. In such a case additional bending operator is used along with the finger number. We can use ![](./f12.jpg) as an example:
 
 ![](./post21.jpg)
 
