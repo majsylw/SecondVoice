@@ -31,7 +31,7 @@ tags:
 
 
 ---
-***[Przeczytaj wywiad w języku polskim]()***
+***[Przeczytaj wywiad w języku polskim](https://www.hearai.pl/post/7-wiktoriawywiadpl/)***
 
 ## Interview with Wiktoria Choręziak 
 
