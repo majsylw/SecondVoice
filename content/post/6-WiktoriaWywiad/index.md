@@ -53,7 +53,7 @@ One of our project main goals is to educate (ourseleves and hopefully others) ab
 
 ***WCh:*** For me it is not a defect, I can speak, I can write. These are not limitations; however, the period of the coronavirus has caused some difficulties. Now people are wearing face masks. When I want to talk, I request others to take their  masks off, because for effective communication I need to see the whole face. There are people who are afraid to remove masks because of the possibility of getting infected, so we have to write instead, which is more difficult. When I have the ability to see my lips, communication is better and easier for me. 
 
-	![Photo from Wiktoria's Choręziak private collection](./zdjecie1.jpg)
+	![Photo from Wiktoria's Choręziak private collection](./zdjecie1.JPG)
   
 ***ML:*** I understand you well, because sometimes it is also difficult for me to understand someone with a mask on their face. How do you communicate with your surroundings? What form of communication do you prefer? 
 
@@ -91,7 +91,7 @@ One of our project main goals is to educate (ourseleves and hopefully others) ab
 
 ***WCh:*** Yes, that’s true. 
 
-![Photo from Wiktoria's Choręziak private collection](./zdjecie3.jpg)
+![Photo from Wiktoria's Choręziak private collection](./zdjecie3.JPG)
 
 ***ML:*** How are the deaf coping on the Polish labor market? 
 
@@ -189,7 +189,7 @@ One of our project main goals is to educate (ourseleves and hopefully others) ab
 
 ***WCh:*** There is no “Co nie?”. More like a hand wave to get rid of something. 
 
-![Photo from Wiktoria's Choręziak private collection](./zdjecie2.jpg)
+![Photo from Wiktoria's Choręziak private collection](./zdjecie2.JPG)
 
 ***ML:*** Wiktoria, you are a person with many interests and passions. You play sports, specifically alpine skiing. How do you collaborate with your team? Tell me about skiing in general, I’m very curious. 
 
