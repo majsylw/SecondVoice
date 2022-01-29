@@ -1,12 +1,11 @@
 ---
 title: Wywiad z Wiktorią Choręziak 
 subtitle: Życie osoby Głuchej w świecie słyszących 
-summary: Zapraszamy do pzreczytania wywiadu z Wiktorią Choręziak, 17-letnią modelką i narciarką alpejską. 
-Wiktoria urodziła się głucha, ale potrafi mówić i migać. Podczas naszej konferencji opowiedziała nam o swoim życiu i odpowiedziała na liczne pytania.
+summary: Zapraszamy do pzreczytania wywiadu z Wiktorią Choręziak, 17-letnią modelką i narciarką alpejską. Wiktoria urodziła się głucha, ale potrafi mówić i migać. Podczas naszej konferencji opowiedziała nam o swoim życiu i odpowiedziała na liczne pytania.
 
 
-date: "2022-01-24T00:00:00Z"
-lastmod: "2022-01-24T00:00:00Z"
+date: "2022-01-29T00:00:00Z"
+lastmod: "2022-01-29T00:00:00Z"
 
 featured: false
 draft: false
@@ -28,9 +27,6 @@ tags:
 - project
 - conference
 - sign language
-
-
-
 ---
 
 ## Wywiad z Wiktorią Choręziak
@@ -45,7 +41,7 @@ W dniach 20-21 listopada mieliśmy przyjemność gościć HAI Virtual Event, pod
 Wydarzenie zakończyła inspirująca i pouczająca rozmowa z Wiktorią Choręziak, 17-letnią dziewczyną, która urodziła się głucha. 
 Wiktoria w wywiadzie przeprowadzonym przez Marię Lewalską podzieliła się przemyśleniami na temat bycia Głuchą w świecie słyszących, wyzwaniach w czasie terapii mowy i swoich pasjach.
 
-![Photo from Wiktoria's Choręziak private collection](./zdjecie1.jpg)
+![](./zdjecie1.JPG)
 
 ***Maria Lewalska:*** Zanim zaczniemy wywiad z Tobą warto powiedzieć, że jesteś osobą niesłyszącą, ale porozumiewasz się zarówno w języku migowym jak i werbalnie. Nie była to dla Ciebie łatwa droga, przez wiele lat pracowałaś z logopedą i mimo chwil zwątpienia udało Ci się osiągnąć zamierzone cele, za co Cię bardzo podziwiam. Masz też wiele zainteresowań; jesteś reprezentantką Polski w narciarstwie alpejskim dla niesłyszących, ale również modelką, influencerką. Jesteś niesamowicie inspirującą osobą. Jak wyglądały początki tej drogi? Jesteś niesłysząca od urodzenia? Twoja rodzina również? 
 
@@ -97,7 +93,7 @@ Uważam, że lepiej byłoby gdybym na przykład weszła do urzędu i miała na m
 
 ***WCh:*** Tak, to prawda. 
 
-![Photo from Wiktoria's Choręziak private collection](./zdjecie2.jpg)
+![Photo from Wiktoria's Choręziak private collection](./zdjecie2.JPG)
 
 ***ML:*** Jak Głusi radzą sobie na rynku pracy u nas w Polsce? 
 
@@ -195,7 +191,7 @@ Uważam, że lepiej byłoby gdybym na przykład weszła do urzędu i miała na m
 
 ***WCh:*** Nie występuje „Co nie”. Bardziej takie machnięcia ręką, żeby zbyć coś. 
 
-![Photo from Wiktoria's Choręziak private collection](./zdjecie3.jpg)
+![Photo from Wiktoria's Choręziak private collection](./zdjecie3.JPG)
 
 ***ML:*** Wiktoria, jesteś osobą z wieloma zainteresowaniami i pasjami. Uprawiasz sport, a konkretnie narciarstwo alpejskie. W jaki sposób współpracuje Ci się ze swoim zespołem? Opowiedz w ogóle o narciarstwie, jestem bardzo ciekawa. 
 
