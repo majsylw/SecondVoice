@@ -1,14 +1,14 @@
 ---
 title: Wywiad z Wiktorią Choręziak 
 subtitle: Życie osoby Głuchej w świecie słyszących 
-summary: Zapraszamy do pzreczytania wywiadu z Wiktorią Choręziak, 17-letnią modelką i narciarką alpejską. Wiktoria urodziła się głucha, ale potrafi mówić i migać. Podczas naszej konferencji opowiedziała nam o swoim życiu i odpowiedziała na liczne pytania.
+summary: Zapraszamy do przeczytania wywiadu z Wiktorią Choręziak, 17-letnią modelką i narciarką alpejską. Wiktoria urodziła się głucha, ale potrafi mówić i migać. Podczas naszej konferencji opowiedziała nam o swoim życiu i odpowiedziała na liczne pytania.
 
 
 date: "2022-01-29T00:00:00Z"
 lastmod: "2022-01-29T00:00:00Z"
 
-featured: false
-draft: false
+featured: 
+draft: 
 private: true
 image:
 
