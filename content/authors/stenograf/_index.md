@@ -21,7 +21,7 @@ user_groups:
  - Sponsors
 
 ---
-![](./logo.png)
+
 **Captions ready as a duck takes to water!**
 
 Stenograf is a speech-to-text tool.
@@ -36,5 +36,5 @@ Automatically create captions and transcripts quickly and with fun.
 
 Influencers Agencies, Marketing Agencies, PR Agencies, Scientists, Researchers and Students, Coaches, Podcasters, Journalists, Video Experts, Event Organizers, Online courses, Salespeople, Influencers, Public Institutions, Comedians, Marketers, Video Editors, Speakers, Nonprofit Organizations, Singers, Lawyers, Local Governments, Courts, SM Ninjas, Coaches, Vloggers.
 
-Stenograf is a brand of WEimpact.AI.
+[More about Stenograf](https://stenograf.io/)
 
