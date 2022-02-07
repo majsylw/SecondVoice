@@ -73,3 +73,6 @@ We are interested in topics about technology, IT, programming, but also related 
 13. Describe your technical idea for a solution that aims to improve the quality of life of a Deaf people
 
 **10 best posts will be published, each post author will receive a hoodie!**
+
+
+***We would like to thank our partner Intel Technology Poland for the support.***
