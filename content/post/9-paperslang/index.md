@@ -19,7 +19,7 @@ image:
   preview_only: false
 
 authors:
-- Alicja Kzremińska
+- Alicja Krzemińska
 
 tags:
 - vocabulary
@@ -77,4 +77,4 @@ _[1] Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, Richard Bowden [“Sign 
 
 _[2] Alex Graves, Santiago Fernandez, Faustino Gomez, Jurgen Schmidhuber “[Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icml_2006.pdf)”, ICML 2006_
 
-_Source of the gif: https://media.giphy.com/media/26FKSD8CaY4RB0uk0/giphy.gif_
+_Source of the gif:_ https://media.giphy.com/media/26FKSD8CaY4RB0uk0/giphy.gif
