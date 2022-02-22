@@ -49,9 +49,9 @@ Scientists, who are working on Sign Language, have a specific vocabulary and a l
 
 **SLTT - Sign Language Translation Transformer -** an autoregressive transformer decoder model, trained on output from SLRT to predict one word at a time to generate the corresponding spoken language sentence.
 
-[https://media.giphy.com/media/26FKSD8CaY4RB0uk0/giphy.gif](https://media.giphy.com/media/26FKSD8CaY4RB0uk0/giphy.gif) 
+![Source: https://media.giphy.com/media/26FKSD8CaY4RB0uk0/giphy.gif](https://media.giphy.com/media/26FKSD8CaY4RB0uk0/giphy.gif) 
 
-&lt;iframe src="https://giphy.com/embed/26FKSD8CaY4RB0uk0" width="480" height="249" frameBorder="0" class="giphy-embed" allowFullScreen>&lt;/iframe>&lt;p>&lt;a href="https://giphy.com/gifs/signwithrobert-sign-with-robert-26FKSD8CaY4RB0uk0">via GIPHY&lt;/a>&lt;/p>
+
 
 **WER - Word Error Rate -** metric to measure performance used in NLP solutions, e.g. in automatic speech recognition (ASR).
 
@@ -76,3 +76,5 @@ _Sources:_
 _[1] Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, Richard Bowden [“Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation”](https://openaccess.thecvf.com/content_CVPR_2020/papers/Camgoz_Sign_Language_Transformers_Joint_End-to-End_Sign_Language_Recognition_and_Translation_CVPR_2020_paper.pdf), CVPR 2020_
 
 _[2] Alex Graves, Santiago Fernandez, Faustino Gomez, Jurgen Schmidhuber “[Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icml_2006.pdf)”, ICML 2006_
+
+_Source of the gif: https://media.giphy.com/media/26FKSD8CaY4RB0uk0/giphy.gif_
