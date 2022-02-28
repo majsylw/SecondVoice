@@ -31,7 +31,6 @@ tags:
 
 ---
 
-![](header.png)
 
 # Model Sign Language with Machine Learning
 That's our goal from the beginning. But how can we model Sign Language? It is a subtle mix of pose estimation, continuous movement, event detection, and natural language processing challenges. From the machine point of view, our task is formidable.
