@@ -43,11 +43,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "poland@womeninai.co"
+email: "nataliaczerep@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
  - Organizers
+ - "ML Researchers"
 
 ---
 Third year Computer Science student at University of Wrocław. Currently IT Analyst Intern at UBS working in a field of Cybersecurity. Former R&D intern in Computer Vision team @ Neurosys.

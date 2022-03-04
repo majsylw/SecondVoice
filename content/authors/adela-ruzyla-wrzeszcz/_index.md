@@ -6,12 +6,11 @@ title: Adela Rużyła-Wrzeszcz
 superuser: false
 
 # Role/position
-role: WAI Support
+role: WAI Support | Senior Project Manager
 
 # Organizations/Affiliations
-organizations:
-- name: WAI Poland
-  url: "https://www.linkedin.com/showcase/women-in-ai-poland/"
+#organizations:
+#- name: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -24,12 +23,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/women_in_ai
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/aruzyla-wrzeszcz"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -37,12 +34,19 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "poland@womeninai.co"
+email: "ruzyla@wp.pl"
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
- - Organizers
+ - "Team members"
 
 ---
 
-...
+Knowledge management and development expert with over 20 years of experience.
+Up to now, responsible for building development programs, certification programs, supervisions, trainings, knowledge base. An organizer of TedxOrange and Orange Digital Meetup - popularizing digitalization in not only modern technologies.
+
+Lecturer at industry conferences, among others: HR Breakfast - Wolter Kluwer S.A, Sales Congress- Modern Company, Coustomer Service Excellence- Trio Conferences.  
+Master of Economics, she completed postgraduate studies in Human Resource Management and Master of Business Administration for HR staff at Kozminski University, postgraduate studies at SWPS University in vocational counseling, educational counseling and job-coaching.
+She supports LifeSklills Foundation where she conducts classes for young people helping them build competencies necessary in modern business. Cooperates with Kozminski University and Lazarski University as a lecturer.
+
+In 2020 she joined the Women in IA Association to share experience and actively change the role of women in artificial intelligence.

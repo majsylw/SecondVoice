@@ -2,12 +2,8 @@
 # Display name
 title: Marta Plantykow
 
-# Username (this should match the folder name)
-authors:
-- Name: "Marta Plantykow"
-
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Network Engineer@Intel | Women in AI Poland
@@ -54,6 +50,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
  - Organizers
+ - "ML Researchers"
 
 ---
 Master in computer science from Gdansk University of Technology with 5 years’ experience in Network Software development. Currently working on Linux Base Driver for Intel® Ethernet Connection solutions, focusing on eXpress Data Path. Artificial Intelligence enthusiast. 

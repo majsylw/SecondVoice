@@ -6,12 +6,16 @@ title: Anna Monik
 superuser: false
 
 # Role/position
-role: Psychological Science Expert
+role: Psychological Science Expert | Project Manager @Orange | PhD Candidate in Psychology @PAS
 
 # Organizations/Affiliations
 organizations:
+- name: Polish Academy of Sciences
+  url: https://pan.pl/
+- name: Orange Poland
+  url: https://www.orange.pl/
 - name: WAI Poland
-  url: ""
+  url: "https://www.linkedin.com/showcase/women-in-ai-poland/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -24,12 +28,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/women_in_ai
-- icon: github
-  icon_pack: fab
-  link: ""
+  link: https://www.linkedin.com/in/anna-monik-4352a8ab/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -37,12 +38,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "poland@womeninai.co"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
- - Organizers
+ - "Team members"
 
 ---
 
-...
+PhD Candidate in Psychology (Polish Academy of Sciences), specialized in social psychology and cyberpsychology. Project Manager. Social work volunteer. Member of WAI Poland. Woman supporter.
+
+Always in the mood for good literature, coffee and talk. 

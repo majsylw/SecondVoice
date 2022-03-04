@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor, Senior Research Scientist
+role: Associate Professor, Senior Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -61,6 +61,6 @@ user_groups:
  - Mentors
 
 ---
-Jakub Nalepa received his MSc (2011), PhD (2016), and DSc (2021) in Computer Science from Silesian University of Technology (SUT), Gliwice, Poland. Jakub is currently an Assistant Professor at SUT, Head of AI at KP Labs, Gliwice, Poland, and Machine Learning Architect at Future Processing Healthcare, Gliwice, Poland. His research interests focus on machine (deep) learning, signal processing, remote sensing, and medical image analysis. So far, he has published more than 100 peer-reviewed papers in journals and conferences and is an active reviewer in 90+ journals. Jakub has been awarded the Witold Lipski Prize (2017), the POLITYKA Science Award (2020), and has been shortlisted at the AI Innovation of the Year (Solutions Provider) list, The AIconics Awards (2021).
+Jakub Nalepa received his MSc (2011), PhD (2016), and DSc (2021) in Computer Science from Silesian University of Technology (SUT), Gliwice, Poland. Jakub is currently an Associate Professor at SUT, Head of AI at KP Labs, Gliwice, Poland, and Machine Learning Architect at Future Processing Healthcare, Gliwice, Poland. His research interests focus on machine (deep) learning, signal processing, remote sensing, and medical image analysis. So far, he has published more than 100 peer-reviewed papers in journals and conferences and is an active reviewer in 90+ journals. Jakub has been awarded the Witold Lipski Prize (2017), the POLITYKA Science Award (2020), and has been shortlisted on the AI Innovation of the Year (Solutions Provider) list, The AIconics Awards (2021).
 
 [**Click here to visit his website**](http://sun.aei.polsl.pl/~jnalepa/)

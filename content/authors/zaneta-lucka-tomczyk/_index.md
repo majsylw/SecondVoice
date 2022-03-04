@@ -6,15 +6,17 @@ title: Żaneta Lucka Tomczyk
 superuser: false
 
 # Role/position
-role: WAI Ambasador
+role: Women in AI Ambassador/ Program Manager @Orange
 
 # Organizations/Affiliations
 organizations:
+- name: Orange Polska
+  url: "https://www.orange.pl/"
 - name: WAI Poland
-  url: ""
+  url: "https://www.linkedin.com/showcase/women-in-ai-poland/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Women in AI Ambassador/ Program Manager @Orange"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -24,12 +26,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/women_in_ai
-- icon: github
-  icon_pack: fab
-  link: ""
+  link: https://www.linkedin.com/in/zaneta-lucka-tomczyk-942a4917/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -37,12 +37,16 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "poland@womeninai.co"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
  - Organizers
+ - "Team members"
 
 ---
 
-...
+Business Development Manager with 10+ years’ telecom market experience. AI enthusiast, women careers' supporter and mentor. Ambassador of polish Women in AI chapter.
+
+Privately passionate about yoga and meditation.
+

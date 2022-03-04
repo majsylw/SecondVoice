@@ -15,7 +15,7 @@ font_size: L
 site_type: HearAI
 local_business_type: ''
 org_name: Women in AI Poland
-description: Polish Sign Language Translation - AI4Good
+description: AI for Polish Sign Language - AI4Good
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -117,8 +117,8 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
+  google_analytics: 'G-JQX5X9VJ2G'
+  google_tag_manager: 'GTM-5F7RNCB'
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
