@@ -74,11 +74,11 @@ Another problem is the quality of videos and their length. There are signs that 
 
 To have a clear perspective of what the data is despite actually watching these videos (which was a huge part and cannot be underestimated)  we made statistics regarding datasets currently used for our research. 
 
-**stats**
+
 
 ### Annotations
 
-We can divide sign language into two levels - isolated and continuous. Video with_ isolated _type of language contains recording of one word (gloss). C_ontinuous_ means  that we have the whole sentence or even broader story recorded. 
+We can divide sign language into two levels - isolated and continuous. Video with _isolated_ type of language contains recording of one word (gloss). _Continuous_ means  that we have the whole sentence or even broader story recorded. 
 
 Moving on to annotations, SL datasets are annotated in many different ways but the most popular ones are: 
 
