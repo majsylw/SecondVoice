@@ -46,7 +46,8 @@ Many websites are dictionaries. Every word occurs just once, sometimes there is 
 
 Our research is language independent (more on our approach and pipeline [here](https://www.hearai.pl/post/10-pipeline/)) - which means that we can use datasets of various Sign Languages - but as you can see in the bellow plot - most of the available datasets  contain American (ASL), German (DGS), Greek (GSL) and Polish (PJM) Sign Language. 
 
-| Language |	Time |	Num of videos |			
+| Language |	Time |	Num of videos |	
+| ------------- |:-------------:| -----:|
 | ASL |	60:19:00 | 42196 |			
 | BSL	| 9:17:00 |	6776	|		
 | DGS |	81:56:03 |	46411	|		
