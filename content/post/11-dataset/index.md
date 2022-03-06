@@ -75,7 +75,7 @@ Another problem is the quality of videos and their length. There are signs that 
 To have a clear perspective of what the data is despite actually watching these videos (which was a huge part and cannot be underestimated)  we made statistics regarding datasets currently used for our research. 
 Explanation of the names of datasets and their source:
 * korpus (PJM) - data scrapped from open dictionary for Polish Sign Language - [PJM](https://www.slownikpjm.uw.edu.pl/)
-* basic lexicon /Language - data scrapped from Basic Lexicon patr of Dicta Sign project - [Dicta Sign](https://www.sign-lang.uni-hamburg.de/dicta-sign/portal/concepts/concepts_eng.html)
+* basic lexicon /Language - data scrapped from Basic Lexicon part of Dicta Sign project - [Dicta Sign](https://www.sign-lang.uni-hamburg.de/dicta-sign/portal/concepts/concepts_eng.html)
 
 
 |                           |  korpus (PJM) |  basic lexicon /BSL |  basic lexicon /DGS |  basic lexicon /GSL |  basic lexicon /LSF |
