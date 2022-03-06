@@ -75,6 +75,28 @@ Another problem is the quality of videos and their length. There are signs that 
 To have a clear perspective of what the data is despite actually watching these videos (which was a huge part and cannot be underestimated)  we made statistics regarding datasets currently used for our research. 
 
 
+|                           |  korpus/labeled (PJM) |  basic lexicon /BSL |  basic lexicon /DGS |  basic lexicon /GSL |  basic lexicon /LSF |
+| ------------------------- | --------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| Min num of frames         | 44,00                 | 1,00                | 29,00               | 36,00               | 17,00               |
+| Max num of frames         | 187,00                | 2730,00             | 82,00               | 138,00              | 139,00              |
+| Avg num of frames         | 110,00                | 195,00              | 42,00               | 78,00               | 53,00               |
+| Min duration in seconds   | 1,83                  | 0,10                | 1,16                | 1,44                | 1,13                |
+| Max duration in seconds   | 7,79                  | 109,20              | 3,28                | 5,52                | 5,56                |
+| Avg duration in seconds   | 4,59                  | 7,62                | 1,68                | 3,12                | 2,66                |
+| Min fps                  | 24,00                 | 10,00               | 25,00               | 25,00               | 14,90               |
+| Max fps                   | 24,00                 | 50,00               | 25,00               | 25,00               | 25,48               |
+| Avg fps                   | 24,00                 | 25,18               | 25,00               | 25,00               | 19,16               |
+| Min frame height          | 1280,00               | 320,00              | 320,00              | 320,00              | 320,00              |
+| Max frame height          | 1280,00               | 481,00              | 320,00              | 320,00              | 320,00              |
+| Avg frame height          | 1280,00               | 320,16              | 320,00              | 320,00              | 320,00              |
+| Min frame width           | 720,00                | 240,00              | 180,00              | 240,00              | 240,00              |
+| Max frame width           | 20,00                 | 361,00              | 180,00              | 240,00              | 240,00              |
+| Avg frame width           | 720,00                | 240,12              | 180,00              | 240,00              | 240,00              |
+| Num of nonreadeable files | 3,00                  | 0,00                | 0,00                | 0,00                | 0,00                |
+
+![](fig1.jpg)
+![](fig2.jpg)
+![](fig3.jpg)
 
 ### Annotations
 
