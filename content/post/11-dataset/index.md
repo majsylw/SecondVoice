@@ -1,3 +1,35 @@
+---
+title: Sign Language Data Analysis
+subtitle: Data collecting, preprocessing, custom annotations.
+summary: Read about our approach to data preprocessing
+
+
+date: "2022-03-06T00:00:00Z"
+lastmod: "2022-03-06T00:00:00Z"
+
+featured: false
+draft: false
+
+image:
+
+  caption: ''
+
+  focal_point: "Center"
+  placement: 2
+  preview_only: false
+
+authors:
+- Natalia Czerep
+
+tags:
+- stats
+- exploratory data analysis
+- dataset
+- sign language
+
+
+---
+
 Deep learning depends strongly on data. It is the crucial aspect of the training of any model. Let's be clear - without (preferably high quality) data there is no point in doing machine learning (ML).
 
 Our task - Sign Language (SL) Processing - requires the use of videos. 
