@@ -63,7 +63,7 @@ Our research is language independent (more on our approach and pipeline [here](h
 
 Found databases are pretty different, which is reflected not only in the operated SL, but also different video sizes, backgrounds, and even number of signers. Diversity of the datasets prevents overfitting but sometimes makes training difficult.
 
-In this particular case, we tried to extract samples consisting of 3 views (front, side, up). Many databases contain videos extracted from YouTube, with subtitles or logos.These videos need special care to make them useful.
+In this particular case, we tried to extract samples consisting of 3 views (front, side, up). Many databases contain videos extracted from YouTube, with subtitles or logos.These videos need special care to make them useful. This problem appeared in data scrapped from Dicta Sign [https://www.sign-lang.uni-hamburg.de/dicta-sign/portal/concepts/concepts_eng.html].
 ![](3_to_1.jpg)
 
 Another problem is the quality of videos and their length. There are signs that can be  performed in fractions of seconds, but also mistakes are made and whole sentences are flashed instead of separate glosses. In some cases we have faced the problem of unavailable/non-existing or unreadable files. 
@@ -73,9 +73,12 @@ Another problem is the quality of videos and their length. There are signs that 
 ### Statistics 
 
 To have a clear perspective of what the data is despite actually watching these videos (which was a huge part and cannot be underestimated)  we made statistics regarding datasets currently used for our research. 
+Explanation of the names of datasets and their source:
+* korpus (PJM) - data scrapped from open dictionary for Polish Sign Language - [PJM](https://www.slownikpjm.uw.edu.pl/)
+* basic lexicon /Language - data scrapped from Basic Lexicon patr of Dicta Sign project - [Dicta Sign](https://www.sign-lang.uni-hamburg.de/dicta-sign/portal/concepts/concepts_eng.html)
 
 
-|                           |  korpus/labeled (PJM) |  basic lexicon /BSL |  basic lexicon /DGS |  basic lexicon /GSL |  basic lexicon /LSF |
+|                           |  korpus (PJM) |  basic lexicon /BSL |  basic lexicon /DGS |  basic lexicon /GSL |  basic lexicon /LSF |
 | ------------------------- | --------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Min num of frames         | 44,00                 | 1,00                | 29,00               | 36,00               | 17,00               |
 | Max num of frames         | 187,00                | 2730,00             | 82,00               | 138,00              | 139,00              |
