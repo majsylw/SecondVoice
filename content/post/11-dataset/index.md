@@ -97,8 +97,8 @@ Explanation of the names of datasets and their source:
 | Avg frame width           | 720,00                | 240,12              | 180,00              | 240,00              | 240,00              |
 | Num of nonreadeable files | 3,00                  | 0,00                | 0,00                | 0,00                | 0,00                |
 
-![](fig1.jpg)
 ![](fig2.jpg)
+![](fig1.jpg)
 ![](fig3.jpg)
 
 ### Annotations
