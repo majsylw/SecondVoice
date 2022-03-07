@@ -63,7 +63,7 @@ Our research is language independent (more on our approach and pipeline [here](h
 
 Found databases are pretty different, which is reflected not only in the operated SL, but also different video sizes, backgrounds, and even number of signers. Diversity of the datasets prevents overfitting but sometimes makes training difficult.
 
-In this particular case, we tried to extract samples consisting of 3 views (front, side, up). Many databases contain videos extracted from YouTube, with subtitles or logos.These videos need special care to make them useful. This problem appeared in data scrapped from Dicta Sign [https://www.sign-lang.uni-hamburg.de/dicta-sign/portal/concepts/concepts_eng.html].
+In this particular case, we tried to extract samples consisting of 3 views (front, side, up). Many databases contain videos extracted from YouTube, with subtitles or logos.These videos need special care to make them useful. This problem appeared in data scrapped from [Dicta Sign](https://www.sign-lang.uni-hamburg.de/dicta-sign/portal/concepts/concepts_eng.html).
 ![](3_to_1.jpg)
 
 Another problem is the quality of videos and their length. There are signs that can be  performed in fractions of seconds, but also mistakes are made and whole sentences are flashed instead of separate glosses. In some cases we have faced the problem of unavailable/non-existing or unreadable files. 
