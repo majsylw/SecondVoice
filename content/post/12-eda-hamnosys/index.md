@@ -56,18 +56,10 @@ We ended up with a list of datasets, which in total consists of 9.5h and 10k glo
 * [GLex](https://www.sign-lang.uni-hamburg.de/glex/intro/vorwort.html#nav1) -  a corpus-based dictionary of DGS for technical terms from the field of health and nursing care with resolution 108x80px.
 * [GSL dataset](https://vcl.iti.gr/dataset/gsl/) - a large-scale RGB+D dataset divided into isolated gloses of GSL and saved as frames (separate images) with resolution 1440x1080px.
 
-<div align="center">
+<div>
+<div style="text-align: -webkit-center;">
+  <div style="/* align-content: center; */display: table;"><table style=""><thead><tr><th><em>Language</em></th><th style="text-align:center">Time</th><th style="text-align:right">Number of glosses</th></tr></thead><tbody><tr><td>BSL</td><td style="text-align:center">2:21:00</td><td style="text-align:right">986</td></tr><tr><td>DGS</td><td style="text-align:center">2:14:00</td><td style="text-align:right">2452</td></tr><tr><td>GSL</td><td style="text-align:center">0:32:00</td><td style="text-align:right">2835</td></tr><tr><td>LSF</td><td style="text-align:center">0:25:00</td><td style="text-align:right">1045</td></tr><tr><td>PJM</td><td style="text-align:center">3:56:00</td><td style="text-align:right">2845</td></tr><tr><td>Total</td><td style="text-align:center">9:28:00</td><td style="text-align:right">10163</td></tr></tbody></table></div></div>  
 
-| *Language* | Time | Number of glosses |
-|-----------------|:---------:|---------:|
-| BSL | 2:21:00 | 986 |
-| DGS | 2:14:00 | 2452 |
-| GSL | 0:32:00 | 2835 |
-| LSF | 0:25:00 | 1045 |
-| PJM | 3:56:00 | 2845 |
-| Total | 9:28:00 | 10163 |
-  
-</div>
 
   
 </p>
