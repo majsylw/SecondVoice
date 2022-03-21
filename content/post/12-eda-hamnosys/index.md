@@ -56,71 +56,26 @@ We ended up with a list of datasets, which in total consists of 9.5h and 10k glo
 * [GLex](https://www.sign-lang.uni-hamburg.de/glex/intro/vorwort.html#nav1) -  a corpus-based dictionary of DGS for technical terms from the field of health and nursing care with resolution 108x80px.
 * [GSL dataset](https://vcl.iti.gr/dataset/gsl/) - a large-scale RGB+D dataset divided into isolated gloses of GSL and saved as frames (separate images) with resolution 1440x1080px.
 
+<div align="center">
 
+| *Language* | Time | Number of glosses |
+|-----------------|:---------:|---------:|
+| BSL | 2:21:00 | 986 |
+| DGS | 2:14:00 | 2452 |
+| GSL | 0:32:00 | 2835 |
+| LSF | 0:25:00 | 1045 |
+| PJM | 3:56:00 | 2845 |
+| Total | 9:28:00 | 10163 |
+  
+</div>
 
-<table class="center">
-  <table align = "center">
-  <tr>
-   <td><em>Language</em>
-   </td>
-   <td>Time
-   </td>
-   <td>Number of glosses
-   </td>
-  </tr>
-  <tr>
-   <td>BSL
-   </td>
-   <td>2:21:00
-   </td>
-   <td>986
-   </td>
-  </tr>
-  <tr>
-   <td>DGS
-   </td>
-   <td>2:14:00
-   </td>
-   <td>2452
-   </td>
-  </tr>
-  <tr>
-   <td>GSL
-   </td>
-   <td>0:32:00
-   </td>
-   <td>2835
-   </td>
-  </tr>
-  <tr>
-   <td>LSF
-   </td>
-   <td>0:25:00
-   </td>
-   <td>1045
-   </td>
-  </tr>
-  <tr>
-   <td>PJM
-   </td>
-   <td>3:56:00
-   </td>
-   <td>2845
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Total</strong>
-   </td>
-   <td><strong>9:28:00</strong>
-   </td>
-   <td><strong>10163</strong>
-   </td>
-  </tr>
-</table>
+  
 </p>
 <p align = "center">
 Table 1. Basic time/instance statistics.
 </p>
+
+
 
 As you can see from the provided descriptions, the created collection consists of various glosses in different languages and come from different subject domains. However as HamNoSys describes the initial position of the movement use of their concatenation, to enhance proper sign recognition, should be possible.
 
