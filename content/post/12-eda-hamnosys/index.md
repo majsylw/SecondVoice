@@ -57,7 +57,8 @@ We ended up with a list of datasets, which in total consists of 9.5h and 10k glo
 * [GSL dataset](https://vcl.iti.gr/dataset/gsl/) - a large-scale RGB+D dataset divided into isolated gloses of GSL and saved as frames (separate images) with resolution 1440x1080px.
 
 
-<table>
+
+<table class="center">
   <table align = "center">
   <tr>
    <td><em>Language</em>
