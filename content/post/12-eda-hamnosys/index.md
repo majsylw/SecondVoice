@@ -31,7 +31,6 @@ tags:
 ---
 
 
-## gdgdgdggd
 In our [previous post](https://www.hearai.pl/post/11-dataset/) we told you a story about collecting, and preprocessing sign language datasets. Now it is time to delve deeper into the understanding of the datasets used, which is exploratory data analysis, in short EDA.
 
 
@@ -121,10 +120,11 @@ At the beginning of our studies we decided to use eight types of blocks to descr
 
 
 
-![]("./fig1.jpg")
-
-
+![](fig2.png)
+</p>
+<p align = "center">
 Fig 1. Class size for each subgroup.
+</p>
 
 The most common classes for each block and different dataset are presented in Table 2. The most frequent symmetry operator, hand bending is 0, which means a lack of this type of symbol. For base form the most common is flat hand or with one pointed out finger (usually index finger). The statistics for the thumb position block is fairly evenly distributed (not counting class 4, when the thumb is placed under all fingers) - the frequency of different classes depends on the language. The most common Hand Location in the top/down frontal panel is center (class 2), which is not surprising at all.
 
@@ -287,10 +287,13 @@ At the end we can also look at a correlation matrix of all of the variables in t
 
 
 
-![]("./fig2.jpg")
+![](./fig1.png)
+</p>
+<p align = "center">
+Fig 2. Correlation matrix.
+</p>
 
 
-Fig. 2. Correlation matrix.
 
 In general by going through the exploratory data analysis, we have a much better understanding of the data, which will make it easier to choose the model, the attributes, and refine it overall. Stay tuned to read about the results of our trainings!
 
