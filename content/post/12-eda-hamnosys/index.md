@@ -1,7 +1,8 @@
 ---
-title: Exploratory Data Analysis: HamNoSys Baby Steps
+title: Exploratory Data Analysis - HamNoSys Baby Steps
 subtitle: Dive deeper into our data.
 summary: Read about Exploratory Data Analysis on HamNosys datasets.
+
 
 
 date: "2022-03-21T00:00:00Z"
@@ -28,7 +29,14 @@ tags:
 - sign language
 - HamNoSys
 
+
 ---
+
+
+
+
+
+
 
 
 In our [previous post](https://www.hearai.pl/post/11-dataset/) we told you a story about collecting, and preprocessing sign language datasets. Now it is time to delve deeper into the understanding of the datasets used, which is exploratory data analysis, in short EDA.
