@@ -56,10 +56,9 @@ We ended up with a list of datasets, which in total consists of 9.5h and 10k glo
 * [GLex](https://www.sign-lang.uni-hamburg.de/glex/intro/vorwort.html#nav1) -  a corpus-based dictionary of DGS for technical terms from the field of health and nursing care with resolution 108x80px.
 * [GSL dataset](https://vcl.iti.gr/dataset/gsl/) - a large-scale RGB+D dataset divided into isolated gloses of GSL and saved as frames (separate images) with resolution 1440x1080px.
 
-Table 1. Basic time/instance statistics.
-
 
 <table>
+  <table align = "center">
   <tr>
    <td><em>Language</em>
    </td>
@@ -117,7 +116,10 @@ Table 1. Basic time/instance statistics.
    </td>
   </tr>
 </table>
-
+</p>
+<p align = "center">
+Table 1. Basic time/instance statistics.
+</p>
 
 As you can see from the provided descriptions, the created collection consists of various glosses in different languages and come from different subject domains. However as HamNoSys describes the initial position of the movement use of their concatenation, to enhance proper sign recognition, should be possible.
 
@@ -136,7 +138,7 @@ Fig 1. Class size for each subgroup.
 
 The most common classes for each block and different dataset are presented in Table 2. The most frequent symmetry operator, hand bending is 0, which means a lack of this type of symbol. For base form the most common is flat hand or with one pointed out finger (usually index finger). The statistics for the thumb position block is fairly evenly distributed (not counting class 4, when the thumb is placed under all fingers) - the frequency of different classes depends on the language. The most common Hand Location in the top/down frontal panel is center (class 2), which is not surprising at all.
 
-Table 2. Most frequent classes per analised dataset.
+
 
 
 <table>
@@ -283,7 +285,10 @@ Table 2. Most frequent classes per analised dataset.
    </td>
   </tr>
 </table>
-
+</p>
+<p align = "center">
+Table 2. Most frequent classes per analised dataset.
+</p>
 
 
 # Summary
