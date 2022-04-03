@@ -40,7 +40,7 @@ tags:
 
 Pose estimation is a complex Computer Vision problem that aims to detect the position and orientation of a person or object. This is generally done by predicting the location of specific keypoints, such as hands, hands, facial features, etc., when talking about human position.
 
-Acquiring human pose keypoints from an image and extracting their properties has the potential to enrich the information contained in the datasets at our disposal in the scope of our project. The ability to perceive the shape and movement of parts of a person&#39;s body can be an essential element in making sign language and its properties more comprehensible. You can find more information about the datasets we use [HERE – link]
+Acquiring human pose keypoints from an image and extracting their properties has the potential to enrich the information contained in the datasets at our disposal in the scope of our project. The ability to perceive the shape and movement of parts of a person&#39;s body can be an essential element in making sign language and its properties more comprehensible. You can find more information about the datasets we use [HERE](https://www.hearai.pl/post/11-dataset/)
 
 In order to supplement our data with the human body landmarks detection functionality, the Team decided to conduct a comparison of the popular available dedicated systems and then implement in our project the one that better suits our needs. This article presents the results of the comparison of MediaPipe and OpenPose systems.
 
@@ -74,11 +74,11 @@ In order to detect the features of Sign Language, from among the available pipel
 
 The following hardware configuration was used during the test:
 
-**OS**  : Ubuntu 20.04 LTS
+- **OS**  : Ubuntu 20.04 LTS
 
-**Processor**  : Intel(R) Xeon(R) Platinum 8270 CPU @ 2.70GHz – 26 cores
-**GPU**  : NVIDIA GeForce RTX 2080 Ti with 11 GB RAM x2
-**Programming Language**  : Python
+- **Processor**  : Intel(R) Xeon(R) Platinum 8270 CPU @ 2.70GHz – 26 cores
+- **GPU**  : NVIDIA GeForce RTX 2080 Ti with 11 GB RAM x2
+- **Programming Language**  : Python
 
 To conduct the comparative test, the default parameters recommended for a given system were used, allowing for the detection of the pose, hands and face. The exception is the size of the input resolution in order to find a compromise between performance and accuracy of the applied solution.
 
@@ -168,7 +168,7 @@ Fig.11 Hand-face overlap – OpenPose (left) vs MediaPipe (right)
 
 The purpose of the experiment was to test the differences between the computational performance of OpenPose and MediaPipe and to compare the hardware resources needed to do so. The study took into account the needed amount of available computing resources in the form of GPU/CPU usage, and the real-time video processing speed expressed in frame rate per second [FPS].
 
-The experiment was conducted on 6 different input resolutions. The input resolutions used are;
+The experiment was conducted on 6 different input resolutions. The input resolutions used are:
  -1×64px, -1×128px, -1x368px, -1x480px, -1x608px for OpenPose and 256x256px for MediaPipe.
 
 The -1 means that that the resolution will be adapted to maintain the aspect ratio of the input source. E.g., -1x368, 656x-1, and 656x368 will result in the same exact resolution for 720p and 1080p input images.
