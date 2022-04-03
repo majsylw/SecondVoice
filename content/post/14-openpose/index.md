@@ -60,15 +60,14 @@ The parameters used to perform the comparison are focused on the ability to reco
 In order to detect the features of Sign Language, from among the available pipelines, we have applied the following solutions:
 
 | MediaPipe | OpenPose |
-| --- | --- |
-| Holistic mode including: | Real-time 2D multi-person keypoint detections mode including: |
-|33 body/foot landmarks|15, 18, 27 body/foot landmarks|
-|21 hand landmarks – each hand | 21 hand landmarks – each hand |
-|468 facial landmarks|70 facial landmarks|
-
-| ![](img1.png) | ![](img2.png) |
-| ![](img3.png) | ![](img4.png) |
-| ![](img5.gif) | ![](img6.png) |
+:-------------------------:|:-------------------------:
+ Holistic mode including: | Real-time 2D multi-person keypoint detections mode including: 
+33 body/foot landmarks|15, 18, 27 body/foot landmarks
+21 hand landmarks – each hand | 21 hand landmarks – each hand 
+468 facial landmarks|70 facial landmarks
+ ![](Obraz3.jpg) | ![](Obraz4.jpg) 
+ ![](Obraz5.jpg) | ![](Obraz6.jpg) 
+ ![](Obraz7.jpg) | ![](Obraz8.jpg) 
 
 ## Configuration and setup
 
@@ -99,33 +98,30 @@ Figure 1 shows the video frame of the default video. It is worth to note that th
 
 As can be seen, with the frames showing a relatively static image, despite the elbows going slightly beyond the edge of the camera view, both solutions perform equally well in landmark detection.
 
-![](img7.jpg)
+|Fig1. OpenPose - Default perspective | Fig1. Mediapipe - Default perspective  |
+:-------------------------:|:-------------------------:
+![](Obraz9.jpg) | ![](Obraz10.jpg)
 
-Fig.1 Default perspective – OpenPose (left) vs MediaPipe (right)
 
 #### Light intensity
 
 In order to experiment with the effect of lighting on the detection of landmarks, we decided to use very unfavorable lighting conditions due to the lack of noticeable differences in the case of a slight deterioration of the lighting of the recorded video. To minimize the potential influence of other factors on the obtained results, only relatively static images were analyzed. As can be seen from the example pictures (Fig. 2, Fig. 3) MediaPipe does slightly better in this aspect.
 
-![](img8.jpg) 
-
-Fig.2 Effect of light intensity on OpenPose performance
-
-![](img9.jpg) 
-
-Fig.3 Effect of light intensity on MediaPipe performance
+|Fig.2 Effect of light intensity - OpenPose  | Fig.3 Effect of light intensity - Mediapipe   |
+:-------------------------:|:-------------------------:
+![](Obraz11.jpg) | ![](Obraz13.jpg)
+![](Obraz12.jpg) | ![](Obraz14.jpg)
 
 #### Profile angle view
 
 Figures 4 and 5 shows the perspective video frames from the profile angle. Similar to the previous examples (Fig.1-3), considering only relatively static images both solutions also have no problem with landmark detection if we do not take into account body parts overlapping, which becomes more apparent with this perspective.
 
-![](img10.jpg) 
+|Fig.4 Profile angle perspective - OpenPose  | Fig.5 Profile angle perspective - Mediapipe   |
+:-------------------------:|:-------------------------:
+![](Obraz15.jpg) | ![](Obraz16.jpg)
+![](Obraz17.jpg) | ![](Obraz18.jpg)
 
-Fig.4 Profile angle perspective – OpenPose (left) vs MediaPipe (right)
 
-![](img11.jpg) 
-
-Fig.5 Profile angle perspective – OpenPose (left) vs MediaPipe (right)
 
 #### Motion speed
 
@@ -133,36 +129,46 @@ As part of this experiment, the influence of motion speed on the detection of la
 
 In this test MediaPipe shown significantly more robustness to blur than OpenPose. Figures 6-9 show the effect of motion blur on landmark detection.
 
-![](img12.jpg) 
 
-Fig.6 Motion blur in landmark detection – OpenPose (left) vs MediaPipe (right)
 
-![](img13.jpg) 
+|Fig.6 Motion blur in landmark detection - OpenPose  | Fig.6 Motion blur in landmark detection - Mediapipe   |
+:-------------------------:|:-------------------------:
+![](Obraz19.gif) | ![](Obraz20.gif)
 
-Fig.7 Motion blur in landmark detection – OpenPose (left) vs MediaPipe (right)
-![](img14.jpg) 
 
-Fig.8 Motion blur in landmark detection – OpenPose (left) vs MediaPipe (right)
+|Fig.7 Motion blur in landmark detection - OpenPose  | Fig.7 Motion blur in landmark detection - Mediapipe   |
+:-------------------------:|:-------------------------:
+![](Obraz21.gif) | ![](Obraz22.gif)
+
+
+|Fig.8 Motion blur in landmark detection - OpenPose  | Fig.8 Motion blur in landmark detection - Mediapipe   |
+:-------------------------:|:-------------------------:
+![](Obraz23.jpg) | ![](Obraz24.jpg)
+
 
 #### Self-covering: Hand-hand overlap
 
 Figures 9 and 10 show the effect of hand-hand overlap on landmark detection. The test showed issues with accurate landmark determination for both MediaPipe and OpenPose, disregarding slight interference due to motion blur, MediaPipe performed better in determining hand position (Fig. 9, Fig.10) and OpenPose more accurately represented pose position (Fig. 4, Fig.10).
 
-![](im15.jpg) 
+|Fig.9 Hand-hand overlap - OpenPose  | Fig.9 Hand-hand overlap - Mediapipe   |
+:-------------------------:|:-------------------------:
+![](Obraz25.gif) | ![](Obraz26.gif)
 
-Fig.9 Hand-hand overlap – OpenPose (left) vs MediaPipe (right)
 
-![](img16.jpg) 
 
-Fig.10 Hand-hand overlap – OpenPose (left) vs MediaPipe (right)
+|Fig.10 Hand-hand overlap - OpenPose  | Fig.10 Hand-hand overlap - Mediapipe   |
+:-------------------------:|:-------------------------:
+![](Obraz27.gif) | ![](Obraz28.gif)
+
+
 
 #### Self-covering: Hand-face overlap
 
 The last test examined how OpenPose and MediaPipe deal with hand-face overlapping. As can be seen in Figure 11, excluding the motion blur interference, both perform very well at estimating landmark positions when the face is partially hidden.
 
-![](img17.jpg) 
-
-Fig.11 Hand-face overlap – OpenPose (left) vs MediaPipe (right)
+|Fig.10 Hand-face overlap - OpenPose  | Fig.10 Hand-face overlap - Mediapipe   |
+:-------------------------:|:-------------------------:
+![](Obraz29.gif) | ![](Obraz30.gif)
 
 #### Computation Speed
 
@@ -177,11 +183,11 @@ The default resolution of the pose estimation model is -1x368 for OpenPose and 2
 
 The test results are shown in the diagrams below.
 
-![](img18.jpg) 
+![Fig 12. Frame Rate by Resolution](Obraz31.jpg) 
 
 Fig 12. Frame Rate by Resolution
 
-![](img19.jpg) 
+![Fig 13. GPU Memory Usage by Resolution](Obraz32.jpg) 
 
 Fig 13. GPU Memory Usage by Resolution
 
