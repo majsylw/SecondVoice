@@ -50,14 +50,14 @@ In addition, we also verified a possibility of applying various neural network a
 Besides the technical aspect of a whole project, we also aimed to spread the knowledge about the reality of a Deafs life. Our blog (along with social media) and the micro conference organized by us successfully **increased the public awareness about challenges encountered by the Deafs' community every day**.
 
 
-![]()
+![](./zdj3.png)
 
 
 What’s more, the project was a great **opportunity for networking**. The whole team met not only our great mentors, but also multiple partners, many conference attendants, and lecturers.  It has been proven again that **alone we can do so little, but together we can do so much.** We are sure that collaborations and friendships started during this project will last much longer! 
 
 
 
-![]()
+![](./zdj1.jpg)
 
 
 
