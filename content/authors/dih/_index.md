@@ -1,15 +1,15 @@
 ---
 # Display name
-title: DIH Gdańsk
+title: PwC Polska
 
 # Is this the primary user of the site?
 superuser: false
 
 authors:
-- Name: "dih"
+- Name: "PwC"
 
 # Role/position
-role: Digital Innovation Hub - Gdańsk
+role:  PwC Polska Sp. z o.o.
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -23,4 +23,4 @@ user_groups:
 ---
 
 
-[**More about DIH4.AI**](https://dih4.ai/dih/)
+
